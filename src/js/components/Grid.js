@@ -31,35 +31,59 @@ export default function Grid(data, options) {
 
 	console.log(extents)
 
+	let tiles=[];
+				
+
 	let switches=[];
 
-	select(options.container)
+	let row=select(options.container)
 		.append("div")
 		.attr("class","grid")
+			.selectAll("div.row")
+			.data(options.map)
+			.enter()
+			.append("div")
+				.attr("class","row");
+
+	row
 			.selectAll("div.switch")
-			.data(data)
+			.data(d => d.map(m=>{
+				let c=data.find((c)=>(c.constituency===m));
+				return c?c:{constituency:"none",real_constituency:m};
+			}))
 			.enter()
 				.append("div")
 				.attr("class","switch")
-				.attr("rel", d => d.constituency)
+				.classed("none",d=>{
+					let constituency=d.real_constituency || d.constituency;
+					return constituency==="none";
+				})
+				.attr("rel", d => d.real_constituency || d.constituency)
 				//.style("top",d=>((d.coords[0]*42)+"px"))
 				//.style("left",d=>(((d.coords[1]*42)+"px")))
 				.each(function(d){
-					console.log(d,this)
-
-					switches.push(new Switch(d.years,{
+					//console.log(d,this)
+					if(d.constituency!=="none") {
+						switches.push(new Switch(d.years,{
 											id:d.constituency,
 											container:select(this),
 											extent:extents,
 											parties:['Con','SNP','Lab',"LD"],
 											margins:{
-												top:5,
-												left:5,
-												right:5,
-												bottom:5
+												top:0,
+												left:0,
+												right:0,
+												bottom:0
 											}
 										}));
-
+					}
+					let constituency=d.real_constituency || d.constituency;
+					if(constituency!=="none") {
+						select(this).append("h4")
+	    					.text(constituency)
+	    			}
+					
+	
 				})
 
 	this.resize = () => {

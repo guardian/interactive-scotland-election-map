@@ -7,61 +7,26 @@ import {randomUniform} from 'd3-random';
 
 import Grid from './components/Grid';
 
+import {MAP} from '../assets/data/map';
+
 import { requestAnimationFrame, cancelAnimationFrame } from './lib/raf';
 
 export function init(el, context, config, mediator) {
     el.innerHTML = mainHTML.replace(/%assetPath%/g, config.assetPath);
 
-    function dataGenerator() {
-
-        let positions=[
-            [8],
-            [5],
-            [3,4],
-            [4,5,6],
-            [5,6,7],
-            [2,3,4,5,6,7],
-            [3,4,5],
-            [0,1,2,3,4,5,6,7],
-            [2,3,4,5],
-            [4]
-        ];
-        // positions=[
-        //     [0]
-        // ];
-
-        let data=[];
-
-        for(let i=0;i<positions.length;i++) {
-            for(let j=0;j<positions[i].length;j++) {
-                data.push({
-                    constituency:"c"+i+"_"+positions[i][j],
-                    coords:[i,positions[i][j]],
-                    years:[
-                        {
-                            "con":randomUniform(10,20)(),
-                            "lab":randomUniform(20,30)(),
-                            "snp":randomUniform(25,40)()
-                        },
-                        {
-                            "con":randomUniform(20,30)(),
-                            "lab":randomUniform(10,30)(),
-                            "snp":randomUniform(25,50)()
-                        }
-                    ]
-                })
-            }
-        }
-
-        return data;
-    }
+    let map=[];
 
     d3_json(config.assetPath+"/assets/data/scotland.json",(__data)=>{
         console.log("SCOTLAND",__data)
         let data=[];
+
+        console.log(__data.map(d=>d.name))
+
         __data.forEach((d,i)=>{
             
             let PARTIES=["Con","Lab","SNP","Lib Dem"];
+
+
 
             data.push({
                 constituency:d.name,
@@ -92,8 +57,14 @@ export function init(el, context, config, mediator) {
 
         //console.log("NEW DATA IS",data)
 
+        
+
         let grid=new Grid(data,{
-            container:el.querySelector(".interactive-container")
+            container:el.querySelector(".interactive-container"),
+            map:MAP.map(m=>m.split(";"))
+                // .reduce(function(a, b) {
+                //   return a.concat(b);
+                // }, [])
         });
 
         window.addEventListener("optimizedResize", function() {

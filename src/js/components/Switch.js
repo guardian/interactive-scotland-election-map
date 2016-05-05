@@ -13,10 +13,10 @@ import {
 	entries
 } from 'd3-collection'
 
-import {
-    line
-}
-from 'd3-shape';
+// import {
+//     line
+// }
+// from 'd3-shape';
 
 import {
     interpolateNumber
@@ -26,6 +26,9 @@ from 'd3-interpolate';
 export default function Switch(data, options) {
 
 	console.log("Switch",data,options);
+
+
+
 
 	data=data.map(d=>{
 
@@ -48,6 +51,9 @@ export default function Switch(data, options) {
 
 	//return;
 
+	
+
+
 	let box = options.container.node().getBoundingClientRect();
     let WIDTH = options.width || box.width,
         HEIGHT = options.height || box.width;
@@ -56,6 +62,8 @@ export default function Switch(data, options) {
         		.append("svg")
         		.attr("width",WIDTH)
         		.attr("height",HEIGHT)
+
+
 
     let defs = svg.append("defs");
 
@@ -126,6 +134,9 @@ export default function Switch(data, options) {
 	}
 
 	function updateVisuals() {
+
+
+
 		party.select("path")
 				.attr("d",d=>{
 					return drawPath(d);
@@ -173,6 +184,12 @@ export default function Switch(data, options) {
 		xscale.range([0, WIDTH - (margins.left + margins.right + padding.left + padding.right)]),
         yscale.range([0,HEIGHT - (margins.top + margins.bottom + padding.top)]),
         hscale.range([0,HEIGHT - (margins.top + margins.bottom + padding.top)]);
+
+        options.container.style("height",HEIGHT+"px")
+
+        svg 
+    		.attr("width",WIDTH)
+    		.attr("height",HEIGHT)
 
         updateVisuals();
 	}
