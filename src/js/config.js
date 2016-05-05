@@ -16,6 +16,7 @@ System.config({
     "d3": "npm:d3@4.0.0-alpha.35",
     "d3-array": "npm:d3-array@0.7.1",
     "d3-collection": "npm:d3-collection@0.1.2",
+    "d3-format": "npm:d3-format@0.5.1",
     "d3-interpolate": "npm:d3-interpolate@0.7.0",
     "d3-random": "npm:d3-random@0.2.1",
     "d3-request": "npm:d3-request@0.4.6",

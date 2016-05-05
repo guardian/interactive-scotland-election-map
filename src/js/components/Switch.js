@@ -12,7 +12,9 @@ import {
 import {
 	entries
 } from 'd3-collection'
-
+import {
+	format as d3_format
+} from 'd3-format';
 // import {
 //     line
 // }
@@ -22,6 +24,8 @@ import {
     interpolateNumber
 }
 from 'd3-interpolate';
+
+import {strokeShadow} from '../lib/CSSUtils';
 
 export default function Switch(data, options) {
 
@@ -34,11 +38,11 @@ export default function Switch(data, options) {
 
 		let prev=0;
 		d=entries(d).sort((a,b)=>{
-			return b.value - a.value;
+			return b.value.percentage - a.value.percentage;
 		}).map(d=>{
 
 			d.prev=prev;
-			prev+=d.value;
+			prev+=d.value.percentage;
 
 			return d;
 		})
@@ -63,7 +67,11 @@ export default function Switch(data, options) {
         		.attr("width",WIDTH)
         		.attr("height",HEIGHT)
 
-
+    let labels=options.container
+    				.append("div")
+    				.attr("class","labels")
+    				.attr("width",WIDTH)
+        			.attr("height",HEIGHT)
 
     let defs = svg.append("defs");
 
@@ -91,10 +99,11 @@ export default function Switch(data, options) {
         yscale = scaleLinear().domain([0,options.extent]).range([0,HEIGHT - (margins.top + margins.bottom + padding.top)]),
         hscale = scaleLinear().domain([0,options.extent]).range([0,HEIGHT - (margins.top + margins.bottom + padding.top)]);
 
-    let party;
+    let party,
+    	label;
 
     buildVisual();
-    
+
 
 	function buildVisual() {
 
@@ -107,7 +116,7 @@ export default function Switch(data, options) {
 					.data(data[1].map(d=>d.key).sort((a,b)=>{
 						let party1=data[1].find(v=>(v.key===a)),
 							party2=data[1].find(v=>(v.key===b));
-						return party2.value - party1.value;
+						return party2.value.percentage - party1.value.percentage;
 					}))
 					.enter()
 					.append("g")
@@ -115,20 +124,52 @@ export default function Switch(data, options) {
 							return "line "+d;
 						});
 
-		// party.append("line")
-		// 	.attr("x1",xscale(2011))
-		// 	.attr("x2",xscale(2016))
-		// 	.attr("y1",d=>{
-		// 		let party=data[0].find(v=>(v.key===d));
-		// 		return yscale(party.prev)
-		// 	})
-		// 	.attr("y2",d=>{
-		// 		let party=data[1].find(v=>(v.key===d));
-		// 		return yscale(party.prev)
-		// 	})
-		// 	.style("marker-end",d => "url(#arrow-"+d+")")
 
 		party.append("path")
+
+		/*labels
+			.selectAll("span.label.left")
+				.data(data[0].sort((a,b)=>{
+					let party1=data[0].find(v=>(v.key===a.key)),
+						party2=data[0].find(v=>(v.key===b.key));
+					return party2.value - party1.value;
+				}))
+				.enter()
+				.append("span")
+				.attr("class","label left")
+				.style("top",d=>{
+					return yscale(d.prev)+"px"
+				})
+				.text(d=>{
+					//console.log("---->",d)
+					return d3_format(",.1%")(d.value/100);
+				})
+				.each(function(d){
+					strokeShadow(this,1);
+				})*/
+
+		label=labels
+			.selectAll("span.label.right")
+				.data(data[1].sort((a,b)=>{
+					let party1=data[1].find(v=>(v.key===a.key)),
+						party2=data[1].find(v=>(v.key===b.key));
+					return party2.value.percentage - party1.value.percentage;
+				}))
+				.enter()
+				.append("span")
+				.attr("class","label right")
+				.style("top",d=>{
+					return yscale(d.prev)+"px"
+				})
+				.text(d=>{
+					//console.log("---->",d)
+					let change=d3_format("+,.1%")(d.value.change/100);
+					return d.key+" "+d3_format(",.1%")(d.value.percentage/100)+" ("+change+")";
+				})
+				.each(function(d){
+					strokeShadow(this,2);
+				})
+
 				
 		updateVisuals();
 
@@ -142,6 +183,11 @@ export default function Switch(data, options) {
 				.attr("d",d=>{
 					return drawPath(d);
 				})
+
+		label.style("top",d=>{
+					return yscale(d.prev)+"px"
+				})
+
 	}
 
 	function drawPath(d) {
@@ -149,10 +195,10 @@ export default function Switch(data, options) {
 			x2=xscale(2016),
 			party1=data[0].find(v=>(v.key===d)),
 			y1=yscale(party1.prev),
-			h1=hscale(party1.value),
+			h1=hscale(party1.value.percentage),
 			party2=data[1].find(v=>(v.key===d)),
 			y2=yscale(party2.prev),
-			h2=hscale(party2.value);
+			h2=hscale(party2.value.percentage);
 
 		let curvature = .5;
 

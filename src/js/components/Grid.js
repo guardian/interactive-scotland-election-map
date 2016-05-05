@@ -14,6 +14,8 @@ import {
 	values
 } from 'd3-collection'
 
+import {strokeShadow} from '../lib/CSSUtils';
+
 import Switch from './Switch';
 
 export default function Grid(data, options) {
@@ -23,9 +25,12 @@ export default function Grid(data, options) {
 
 
 	let extents=max(data,(d)=>{
+		//console.log("--->",values(d.years[0]))
 		return max([
-				sum(values(d.years[0])),
-				sum(values(d.years[1]))
+				sum(values(d.years[0]),v=>{
+					return v.percentage;
+				}),
+				sum(values(d.years[1]),v=>v.percentage)
 			]);
 	});
 
@@ -80,7 +85,11 @@ export default function Grid(data, options) {
 					let constituency=d.real_constituency || d.constituency;
 					if(constituency!=="none") {
 						select(this).append("h4")
-	    					.text(constituency)
+							.append("span")
+		    					.text(constituency)
+		    					.each(function(d){
+		    						strokeShadow(this);
+		    					})
 	    			}
 					
 	

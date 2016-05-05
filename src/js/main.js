@@ -16,7 +16,7 @@ export function init(el, context, config, mediator) {
 
     let map=[];
 
-    d3_json(config.assetPath+"/assets/data/scotland.json",(__data)=>{
+    d3_json(config.assetPath+"/assets/data/scotland2.json",(__data)=>{
         console.log("SCOTLAND",__data)
         let data=[];
 
@@ -35,7 +35,9 @@ export function init(el, context, config, mediator) {
                     ((votes)=>{
                         let parties={};
                         votes.filter(p=>PARTIES.indexOf(p.party)>-1).forEach(v=>{
-                            parties[(v.party==="Lib Dem")?"LD":v.party]=v.percentage-v.change
+                            parties[(v.party==="Lib Dem")?"LD":v.party]={
+                                percentage:v.percentage-v.change
+                            }
                         })
                         
                         return parties;
@@ -44,7 +46,10 @@ export function init(el, context, config, mediator) {
                     ((votes)=>{
                         let parties={};
                         votes.filter(p=>PARTIES.indexOf(p.party)>-1).forEach(v=>{
-                            parties[(v.party==="Lib Dem")?"LD":v.party]=v.percentage
+                            parties[(v.party==="Lib Dem")?"LD":v.party]={
+                                percentage:v.percentage,
+                                change:v.change
+                            }
                         })
                         
                         return parties;
@@ -95,5 +100,26 @@ export function init(el, context, config, mediator) {
         throttle ("resize", "optimizedResize");
     })();
     
+    if (!Array.prototype.find) {
+      Array.prototype.find = function(predicate) {
+        if (this === null) {
+          throw new TypeError('Array.prototype.find called on null or undefined');
+        }
+        if (typeof predicate !== 'function') {
+          throw new TypeError('predicate must be a function');
+        }
+        var list = Object(this);
+        var length = list.length >>> 0;
+        var thisArg = arguments[1];
+        var value;
 
+        for (var i = 0; i < length; i++) {
+          value = list[i];
+          if (predicate.call(thisArg, value, i, list)) {
+            return value;
+          }
+        }
+        return undefined;
+      };
+    }
 }

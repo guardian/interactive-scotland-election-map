@@ -1,4 +1,50 @@
 .switch {
+
+	&:hover {
+		z-index:9999;
+
+		h4 {
+			visibility: visible;
+		}
+		div.labels {
+			visibility: visible;
+		}
+	}
+	
+
+
+	div.labels{
+		
+		visibility: hidden;
+
+		position: absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		overflow: visible;
+		pointer-events: none;
+
+		@include fs-textSans(1);
+		color:#000;
+		span.label {
+			overflow: visible;
+			position:absolute;
+			&.left {
+				left:-100px;
+				width:100px;
+				text-align: right;
+				margin-right:2px;
+			}
+			&.right {
+				left:100%;
+				width:200px;
+				text-align: left;
+				margin-left:2px;
+			}
+			
+		}
+	}
 	svg {
 		position: absolute;
 		top:0px;
