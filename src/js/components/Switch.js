@@ -25,7 +25,7 @@ from 'd3-interpolate';
 
 export default function Switch(data, options) {
 
-	console.log("Switch",data,options);
+	//console.log("Switch",data,options);
 
 
 
@@ -47,7 +47,7 @@ export default function Switch(data, options) {
 
 	})
 
-	console.log("---->",data)
+	//console.log("---->",data)
 
 	//return;
 
@@ -71,7 +71,7 @@ export default function Switch(data, options) {
 
     
 
-    console.log(WIDTH,HEIGHT)
+    //console.log(WIDTH,HEIGHT)
 
 	let margins = options.margins || {
         top: 0,
@@ -94,6 +94,7 @@ export default function Switch(data, options) {
     let party;
 
     buildVisual();
+    
 
 	function buildVisual() {
 
@@ -193,7 +194,7 @@ export default function Switch(data, options) {
 
         updateVisuals();
 	}
-
+	this.resize();
 	function addArrow(defs) {
 		
 

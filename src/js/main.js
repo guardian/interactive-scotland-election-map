@@ -68,6 +68,7 @@ export function init(el, context, config, mediator) {
         });
 
         window.addEventListener("optimizedResize", function() {
+            console.log("resize")
             grid.resize();
         });
 
