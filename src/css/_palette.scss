@@ -3,3 +3,8 @@
 @function colour($name) {
     @return map-get($pasteup-palette, $name);
 }
+
+$con:#005789;
+$lab:#E31F26;
+$snp:#FCDD03;
+$ld:#FFB900;

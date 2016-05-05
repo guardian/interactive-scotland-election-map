@@ -1,0 +1,57 @@
+.switch {
+	svg {
+		
+		width: 100%;
+		height: 100%;
+
+		g.lines {
+			g.line {
+				line {
+					stroke-width:2;
+					stroke:#333;
+				}
+				path {
+					fill-opacity:0.8;
+					stroke:none;
+				}
+				&.Con {
+					line {
+						stroke:$con;
+					}
+					path {
+						//stroke:$con;
+						fill:$con;
+					}
+				}
+				&.Lab {
+					line {
+						stroke:$lab;
+					}
+					path {
+						//stroke:$lab;
+						fill:$lab;
+					}
+				}
+				&.SNP {
+					line {
+						stroke:$snp;
+					}
+					path {
+						//stroke:$snp;
+						fill:$snp;
+					}
+				}
+				&.LD {
+					line {
+						stroke:$ld;
+					}
+					path {
+						//stroke:$snp;
+						fill:$ld;
+					}
+				}
+			}
+		}
+
+	}
+}
