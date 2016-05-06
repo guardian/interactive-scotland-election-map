@@ -71,7 +71,7 @@ export default function Switch(data, options) {
         			}
 
         			options.container.classed("hover",true);
-        		})
+        		});
         		/*.on("mouseenter",(d)=>{
         			
         			if(options.onMouseEnter) {
@@ -100,7 +100,7 @@ export default function Switch(data, options) {
     				.attr("width",WIDTH)
         			.attr("height",HEIGHT)
 
-    let defs = svg.append("defs");
+    //let defs = svg.append("defs");
 
     //addArrow(defs);
 

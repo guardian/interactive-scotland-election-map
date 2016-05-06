@@ -9,11 +9,26 @@ body {
     padding: 0;
 }
 
+.interactive-embed {
+
+	position: relative;
+	
+	max-width:320px;
+	@include mq(frame) {
+		max-width: 520px;
+	}	
+}
+
 .interactive-container {
+
+	position: relative;
 
 	min-height:10px;
 
-
+	max-width:320px;
+	@include mq(frame) {
+		max-width: 520px;
+	}
 
 	@import "palette";
 	@import "grid";
@@ -21,10 +36,10 @@ body {
 	@import "switch";
 
 	img.scotland-map {
-		height:120px;
+		height:100px;
 		position: absolute;
 		top:5px;
-		right:20px;
+		right:10px;
 
 		@include mq(frame) {
 			top:45px;

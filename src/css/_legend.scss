@@ -8,7 +8,7 @@
 		
 		position: absolute;
 		
-		left:198px;
+		right: 60px;
 		
 		width:50px;
 		height:50px;
@@ -64,9 +64,15 @@
 		float:left;
 		margin-top:5px;
 		width:45%;
+		position: relative;
 		&.right {
 			float:right;
 			text-align:right;
+		}
+		&.key {
+			position:absolute;
+			top:-10px;
+			left:0;
 		}
 		b,i {
 			display: none !important;

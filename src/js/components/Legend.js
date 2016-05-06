@@ -46,6 +46,9 @@ export default function legend(data, options) {
 	legend.append("span")
 			.attr("class","right label")
 			.text("2016")
+	legend.append("span")
+			.attr("class","key label")
+			.text("Key")
 
 	new Switch(data[0].years,{
 					id:data.constituency,

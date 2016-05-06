@@ -8,7 +8,7 @@ export let MAP=[
 	';Stirling;Clackmannanshire & Dunblane;Dunfermline;Cowdenbeath;Kirkcaldy;Fife Mid & Glenrothes;Fife North East;',
 	';;Strathkelvin & Bearsden;Cumbernauld & Kilsyth;Falkirk West;Falkirk East;Linlithgow;;',
 	'Renfrewshire North & West;Greenock & Inverclyde;Glasgow Anniesland;Glasgow Maryhill & Springburn;Glasgow Provan;Coatbridge & Chryston;Airdrie & Shotts;;',
-	'Cunninghame North;Renfrewshire South;Clydebank & Milngavie;Glasgow Cathcart;Glasgow Kelvin;Glasgow Shettleston;Glasgow Southside;;',
+	'Cunninghame North;Renfrewshire South;Clydebank & Milngavie;Glasgow Cathcart;Glasgow Kelvin;Glasgow Shettleston;;;',
 	';Paisley;Glasgow Pollok;Glasgow Southside;Rutherglen;Uddingston & Bellshill;Edinburgh Eastern;Edinburgh Northern & Leith;Edinburgh Western',
 	';Kilmarnock & Irvine Valley;Eastwood;Hamilton, Larkhall & Stonehouse;Motherwell & Wishaw;Almond Valley;Edinburgh Southern;Edinburgh Pentlands;Edinburgh Central',
 	';;Ayr;Clydesdale;Midlothian South, Tweeddale & Lauderdale;Midlothian North & Musselburgh;East Lothian;;',
@@ -18,15 +18,15 @@ export let MAP=[
 export let filters={
 
 	"aberdeen": [
-		'Aberdeen Donside;Aberdeen Central;Aberdeen South & Kincardine North;;;;;;'
+		'Aberdeen Donside;Aberdeen Central;Aberdeen South & Kincardine North;;;'
 	],
 	"glasgow":[
-		'Glasgow Anniesland;Glasgow Maryhill & Springburn;Glasgow Provan;;;;;;',
-		';Glasgow Cathcart;Glasgow Kelvin;Glasgow Shettleston;Glasgow Southside;;;;',
-		'Glasgow Pollok;Glasgow Southside;;;;;;;'
+		'Glasgow Anniesland;Glasgow Maryhill & Springburn;Glasgow Provan;;;',
+		';Glasgow Cathcart;Glasgow Kelvin;Glasgow Shettleston;;',
+		'Glasgow Pollok;Glasgow Southside;;;;'
 	],
 	"edinburgh":[
-		'Edinburgh Eastern;Edinburgh Northern & Leith;Edinburgh Western;;;;;;',
-		'Edinburgh Southern;Edinburgh Pentlands;Edinburgh Central;;;;;;'
+		'Edinburgh Eastern;Edinburgh Northern & Leith;Edinburgh Western;;;',
+		'Edinburgh Southern;Edinburgh Pentlands;Edinburgh Central;;;'
 	]
 }
