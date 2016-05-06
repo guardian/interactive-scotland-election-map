@@ -26,7 +26,7 @@ export let filters={
 		'Glasgow Pollok;Glasgow Southside;;;;;;;'
 	],
 	"edinburgh":[
-		'Edinburgh Western;Edinburgh Northern and Leith;Edinburgh Western;;;;;;',
+		'Edinburgh Western;Edinburgh Northern & Leith;Edinburgh Western;;;;;;',
 		'Edinburgh Southern;Edinburgh Pentlands;Edinburgh Central;;;;;;'
 	]
 }

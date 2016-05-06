@@ -189,9 +189,9 @@ export default function Switch(data, options) {
 					return yscale(d.prev)+"px"
 				})
 				.html(d=>{
-					//console.log("---->",d)
+					let party=(d.key==="LD"?"Lib Dem":d.key);
 					let change=d3_format("+,.1%")(d.value.change/100);
-					return d.key+" "+d3_format(",.1%")(d.value.percentage/100)+" <i>("+change+")</i>";
+					return party+" <b>"+d3_format(",.1%")(d.value.percentage/100)+"</b> <i>("+change+")</i>";
 				})
 				.each(function(d){
 					strokeShadow(this,1);

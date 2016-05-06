@@ -74,7 +74,7 @@ export default function Grid(data, options) {
 											id:d.constituency,
 											container:select(this),
 											extent:extents,
-											parties:['Con','SNP','Lab',"LD"],
+											parties:['Con','SNP','Lab',"LD",'Green'],
 											margins:{
 												top:0,
 												left:0,

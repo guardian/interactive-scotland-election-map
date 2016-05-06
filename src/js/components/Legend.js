@@ -18,7 +18,7 @@ import {strokeShadow} from '../lib/CSSUtils';
 
 import Switch from './Switch';
 
-export default function Overall(data, options) {
+export default function legend(data, options) {
 
 	console.log(data)
 
@@ -34,16 +34,16 @@ export default function Overall(data, options) {
 
 	console.log(extents)
 
-	let overall=select(options.container)
+	let legend=select(options.container)
 				.append("div")
-				.attr("class","overall grid")
-	let _switch=overall.append("div")
+				.attr("class","legend grid")
+	let _switch=legend.append("div")
 					.attr("class","switch");
 
-	overall.append("span")
+	legend.append("span")
 			.attr("class","left label")
 			.text("2011")
-	overall.append("span")
+	legend.append("span")
 			.attr("class","right label")
 			.text("2016")
 

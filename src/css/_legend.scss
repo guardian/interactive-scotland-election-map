@@ -1,0 +1,43 @@
+.legend {
+	
+	pointer-events: none;
+	height:0;
+	overflow:visible;
+
+	&.grid {
+	
+		position: absolute;
+		right:60px;
+
+		width:100px;
+		height:100px;
+		padding:10px 0;
+
+		.switch {
+			width: 100px;
+			height: 100px;
+			display: block;
+
+			div.labels {
+				top:-8px;
+				left: 5px;
+				visibility: visible;
+			}
+		}
+	}
+	
+	.label {
+		@include fs-textSans(1);
+		color:#000;
+		float:left;
+		margin-top:5px;
+		width:45%;
+		&.right {
+			float:right;
+			text-align:right;
+		}
+		b,i {
+			display: none !important;
+		}
+	}
+}

@@ -4,7 +4,7 @@ import {randomUniform} from 'd3-random';
 
 import Grid from './Grid';
 
-import Overall from './Overall';
+import Legend from './Legend';
 
 import {MAP,filters} from '../lib/map';
 
@@ -34,7 +34,7 @@ export default function ScotlandElectionMap(options) {
 
         __data.forEach((d,i)=>{
             
-            let PARTIES=["Con","Lab","SNP","Lib Dem"];
+            let PARTIES=["Con","Lab","SNP","Lib Dem","Green"];
 
 
 
@@ -46,7 +46,7 @@ export default function ScotlandElectionMap(options) {
                         let parties={};
                         votes.filter(p=>PARTIES.indexOf(p.party)>-1).forEach(v=>{
                             parties[(v.party==="Lib Dem")?"LD":v.party]={
-                                percentage:v.percentage-v.change
+                                percentage:!v.change?0:v.percentage-v.change
                             }
                         })
                         
@@ -58,7 +58,7 @@ export default function ScotlandElectionMap(options) {
                         votes.filter(p=>PARTIES.indexOf(p.party)>-1).forEach(v=>{
                             parties[(v.party==="Lib Dem")?"LD":v.party]={
                                 percentage:v.percentage,
-                                change:v.change
+                                change:!v.change?0:v.change
                             }
                         })
                         
@@ -97,53 +97,8 @@ export default function ScotlandElectionMap(options) {
         }
         //return;
         if(!options.filter) {
-        	let overall=new Overall(
-	        	[
-	        		{
-			        	constituency:"scotland",
-			        	years:[
-			        		{
-			        			"Con":{
-			        				percentage:22.02-8.11
-			        			},
-			        			"SNP":{
-			        				percentage:46.51-1.12
-			        			},
-			        			"Lab":{
-			        				percentage:22.56-(-9.13)
-			        			},
-			        			"LD":{
-			        				percentage:7.82-(-0.11)
-			        			},
-			        			"Green":{
-			        				percentage:0
-			        			}
-			        		},
-			        		{
-			        			"Con":{
-			        				percentage:22.02,
-			        				change:8.11
-			        			},
-			        			"SNP":{
-			        				percentage:46.51,
-			        				change:1.12
-			        			},
-			        			"Lab":{
-			        				percentage:22.56,
-			        				change:-9.13
-			        			},
-			        			"LD":{
-			        				percentage:7.82,
-			        				change:-0.11
-			        			},
-			        			"Green":{
-			        				percentage:0.58,
-			        				change:0.58
-			        			}
-			        		}
-			        	]
-		        	}
-	        	]
+        	let legend=new Legend(
+	        	data.filter(d=>d.constituency==="Edinburgh Central")
 		        ,{
 		        	container:el.querySelector(".interactive-container")
 		        });
