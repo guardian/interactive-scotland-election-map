@@ -9,17 +9,21 @@ body {
     padding: 0;
 }
 
-
 .interactive-container {
+
+	min-height:10px;
+
+
+
 	@import "palette";
 	@import "grid";
 	@import "legend";
 	@import "switch";
 
 	img.scotland-map {
-		height:100px;
+		height:120px;
 		position: absolute;
-		top:25px;
+		top:5px;
 		right:20px;
 
 		@include mq(frame) {

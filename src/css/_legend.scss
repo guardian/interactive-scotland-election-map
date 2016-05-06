@@ -5,10 +5,10 @@
 	overflow:visible;
 
 	&.grid {
-	
+		
 		position: absolute;
-		right:60px;
-		left:auto;
+		
+		left:220px;
 		
 		width:50px;
 		height:50px;
@@ -19,6 +19,9 @@
 			width:60px;
 			height:60px;
 			top:30px;
+
+			left:auto;
+			right:60px;
 			
 		}
 

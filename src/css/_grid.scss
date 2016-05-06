@@ -3,19 +3,20 @@
 	overflow:hidden;
 	min-height:100px;
 
-	max-width:520px;
-	position:relative;
 	
+	position:relative;
+	max-width:320px;
 	
 	overflow:visible;
 
-	width:calc(320px - 60px);
+	width:calc(320px - 80px);
 	padding:45px 0 25px;
 	
 	@include mq(frame) {
 		width:calc(100% - 100px);
 		padding:45px 0 25px;
 		min-height:170px;
+		max-width:520px;
 	}
 
 	.row {

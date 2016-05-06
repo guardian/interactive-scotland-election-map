@@ -2,6 +2,7 @@ import iframeMessenger from 'guardian/iframe-messenger'
 import embedHTML from './text/embed.html!text'
 import ScotlandElectionMap from './components/scotland'
 
+
 import { requestAnimationFrame, cancelAnimationFrame } from './lib/raf';
 
 window.init = function init(el, config) {
@@ -22,10 +23,21 @@ window.init = function init(el, config) {
 
     el.innerHTML = embedHTML;
 
-    new ScotlandElectionMap({
-    	el:el,
-    	config:config,
-    	filter:mapFilter
+    
+
+    let frameRequest = requestAnimationFrame(function checkInnerHTML(time) {
+        //console.log(time)
+
+        if(el && el.getBoundingClientRect().height) {
+            cancelAnimationFrame(checkInnerHTML);
+           	new ScotlandElectionMap({
+		    	el:el,
+		    	config:config,
+		    	filter:mapFilter
+		    });
+            return; 
+        }
+        frameRequest = requestAnimationFrame(checkInnerHTML);
     });
 
 };
