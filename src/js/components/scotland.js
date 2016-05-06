@@ -12,6 +12,10 @@ import {
 	entries
 } from 'd3-collection'
 
+import {
+    select
+} from 'd3-selection';
+
 import { requestAnimationFrame, cancelAnimationFrame } from '../lib/raf';
 
 export default function ScotlandElectionMap(options) {
@@ -93,7 +97,7 @@ export default function ScotlandElectionMap(options) {
         		
         		return orders[0].indexOf("Lab")<orders[1].indexOf("Lab");
         	})
-        	console.log(data)
+        	//console.log(data)
         }
         //return;
         if(!options.filter) {
@@ -110,8 +114,15 @@ export default function ScotlandElectionMap(options) {
             map:_map.map(m=>m.split(";"))
         });
 
+        
+        if(options.filter && options.filter!=="lab") {
+        	select(el.querySelector(".interactive-container")).append("img")
+        		.attr("class","scotland-map")
+        		.attr("src",config.assetPath+"/assets/imgs/"+options.filter+".png")
+        }
+
         window.addEventListener("optimizedResize", function() {
-            console.log("resize")
+            //console.log("resize")
             grid.resize();
         });
 

@@ -20,7 +20,7 @@ import Switch from './Switch';
 
 export default function Grid(data, options) {
 
-	console.log("Grid",data)
+	//console.log("Grid",data)
 
 
 
@@ -34,7 +34,7 @@ export default function Grid(data, options) {
 			]);
 	});
 
-	console.log(extents)
+	//console.log(extents)
 
 	let tiles=[];
 				
@@ -86,6 +86,9 @@ export default function Grid(data, options) {
 													.classed("hover",true)
 													.selectAll(".switch")
 														.classed("hover",false);
+
+												select(".legend")
+													.classed("hover",true)
 											}/*,
 											onMouseEnter:(d)=>{
 												grid
@@ -110,6 +113,9 @@ export default function Grid(data, options) {
 									.classed("hover",false)
 									.selectAll(".switch")
 										.classed("hover",false);
+
+								select(".legend")
+									.classed("hover",false)
 							})
 					}
 					let constituency=d.real_constituency || d.constituency;

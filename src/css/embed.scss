@@ -15,4 +15,17 @@ body {
 	@import "grid";
 	@import "legend";
 	@import "switch";
+
+	img.scotland-map {
+		height:100px;
+		position: absolute;
+		top:25px;
+		right:20px;
+
+		@include mq(frame) {
+			top:45px;
+			height:170px;
+			right:40px;
+		}
+	}
 }

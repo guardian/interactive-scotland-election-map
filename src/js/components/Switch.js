@@ -29,7 +29,7 @@ import {strokeShadow} from '../lib/CSSUtils';
 
 export default function Switch(data, options) {
 
-	console.log("Switch",data,options);
+	//console.log("Switch",data,options);
 
 
 

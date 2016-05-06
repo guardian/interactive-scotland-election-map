@@ -20,7 +20,7 @@ import Switch from './Switch';
 
 export default function legend(data, options) {
 
-	console.log(data)
+	//console.log(data)
 
 	let extents=max(data,(d)=>{
 		//console.log("--->",values(d.years[0]))
@@ -32,7 +32,7 @@ export default function legend(data, options) {
 			]);
 	});
 
-	console.log(extents)
+	//console.log(extents)
 
 	let legend=select(options.container)
 				.append("div")
