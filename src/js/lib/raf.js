@@ -6,7 +6,7 @@ export let requestAnimationFrame = 'function' === typeof window.requestAnimation
         (cb) => window.mozRequestAnimationFrame(cb) :
     (cb,element) => {
         let currTime = new Date().getTime();
-        let timeToCall = Math.max(0, 16 - (currTime - lastTime));
+        let timeToCall = Math.max(0, 16 - (currTime - (lastTime || 0)));
         let id = window.setTimeout(function() { callback(currTime + timeToCall); }, 
             timeToCall);
 

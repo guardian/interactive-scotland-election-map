@@ -143,6 +143,9 @@ export default function Switch(data, options) {
 					.data(data[1].map(d=>d.key).sort((a,b)=>{
 						let party1=data[1].find(v=>(v.key===a)),
 							party2=data[1].find(v=>(v.key===b));
+						if(!party1) return 1;
+						if(!party2) return 2;
+						//console.log(party1.value,party2.value)
 						return party2.value.percentage - party1.value.percentage;
 					}))
 					.enter()
@@ -180,6 +183,9 @@ export default function Switch(data, options) {
 				.data(data[1].sort((a,b)=>{
 					let party1=data[1].find(v=>(v.key===a.key)),
 						party2=data[1].find(v=>(v.key===b.key));
+					if(!party1) return 1;
+					if(!party2) return -1;
+					//console.log(party1.value,party2.value)
 					return party2.value.percentage - party1.value.percentage;
 				}))
 				.enter()

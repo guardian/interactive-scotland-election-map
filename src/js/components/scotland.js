@@ -29,8 +29,8 @@ export default function ScotlandElectionMap(options) {
 		options.filter=null;
 	}
 
-    d3_json(config.assetPath+"/assets/data/scotland2.json",(__data)=>{
-    //d3_json("https://interactive.guim.co.uk/2016/04/localelections2016/booted/data/scottish/full.json",(__data)=>{
+    //d3_json(config.assetPath+"/assets/data/scotland2.json",(__data)=>{
+    d3_json("https://interactive.guim.co.uk/2016/04/localelections2016/booted/data/scottish/full.json",(__data)=>{
         //console.log("SCOTLAND",__data)
         let data=[];
 
