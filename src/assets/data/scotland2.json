@@ -2,2446 +2,3057 @@
 [
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:41:09+00:00",
+    "time": "2016-05-06T04:50:13+01:00",
     "name": "Aberdeen Central",
-    "percentageMajority": 32.27,
-    "majority": 14049,
-    "turnout": 75.85,
+    "percentageMajority": 16.29,
+    "majority": 4349,
+    "turnout": 46.69,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 22255,
-        "percentage": 51.12,
-        "change": 11.13,
-        "name": "Peter Wilcock Test"
+        "votes": 11648,
+        "percentage": 43.62,
+        "change": 3.63,
+        "name": "Kevin Stewart"
       },
       {
         "party": "Lab",
-        "votes": 8206,
-        "percentage": 18.85,
-        "change": -18.69,
-        "name": "Robert Peacock Test"
+        "votes": 7299,
+        "percentage": 27.33,
+        "change": -10.21,
+        "name": "Lewis Macdonald"
       },
       {
         "party": "Con",
-        "votes": 7626,
-        "percentage": 17.52,
-        "change": 5.19,
-        "name": "Mike Charlesworth Test"
+        "votes": 6022,
+        "percentage": 22.55,
+        "change": 10.22,
+        "name": "Tom Mason"
       },
       {
         "party": "Lib Dem",
-        "votes": 2552,
-        "percentage": 5.86,
-        "change": -3.48,
-        "name": "Janet Burt Test"
-      },
-      {
-        "party": "Nat Front",
-        "votes": 1159,
-        "percentage": 2.66,
-        "change": 1.86,
-        "name": "Chris Moore Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 701,
-        "percentage": 1.61,
-        "change": null,
-        "name": "Martha Patrick Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 578,
-        "percentage": 1.33,
-        "change": null,
-        "name": "David McIntosh Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 455,
-        "percentage": 1.05,
-        "change": null,
-        "name": "John Brown Test"
+        "votes": 1735,
+        "percentage": 6.5,
+        "change": -2.84,
+        "name": "Ken McLeod"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Aberdeen Central</b> with a 32% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Aberdeen Central</b> by 4,349 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:41:42+00:00",
+    "time": "2016-05-06T05:39:37+01:00",
+    "name": "Aberdeen Donside",
+    "percentageMajority": 37.54,
+    "majority": 11630,
+    "turnout": 50.62,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 17339,
+        "percentage": 55.97,
+        "change": 0.7,
+        "name": "Mark McDonald"
+      },
+      {
+        "party": "Con",
+        "votes": 5709,
+        "percentage": 18.43,
+        "change": 10.33,
+        "name": "Liam Kerr"
+      },
+      {
+        "party": "Lab",
+        "votes": 5672,
+        "percentage": 18.31,
+        "change": -10.15,
+        "name": "Greg Williams"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 2261,
+        "percentage": 7.3,
+        "change": 1.3,
+        "name": "Isobel Davidson"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Aberdeen Donside</b> with a 38% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T05:24:53+01:00",
     "name": "Aberdeen South & Kincardine North",
-    "percentageMajority": 20.17,
-    "majority": 8060,
-    "turnout": 73.53,
+    "percentageMajority": 8.52,
+    "majority": 2755,
+    "turnout": 54.16,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 20612,
-        "percentage": 51.59,
-        "change": 9.96,
-        "name": "Jim Cotton Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 12552,
-        "percentage": 31.42,
-        "change": 14.01,
-        "name": "Ian Pritchard Test"
+        "votes": 13604,
+        "percentage": 42.07,
+        "change": 0.43,
+        "name": "Maureen Watt"
       },
       {
         "party": "Con",
-        "votes": 2861,
-        "percentage": 7.16,
-        "change": -6.98,
-        "name": "David Foster Test"
+        "votes": 10849,
+        "percentage": 33.55,
+        "change": 19.41,
+        "name": "Ross Thomson"
       },
       {
         "party": "Lab",
-        "votes": 2137,
-        "percentage": 5.35,
-        "change": -14.25,
-        "name": "Mike Harvey Test"
+        "votes": 5603,
+        "percentage": 17.33,
+        "change": -2.27,
+        "name": "Alison Evison"
       },
       {
-        "party": "Nat Front",
-        "votes": 903,
-        "percentage": 2.26,
-        "change": 1.51,
-        "name": "Tony Wilson Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 889,
-        "percentage": 2.23,
-        "change": -4.26,
-        "name": "Stuart Fox Test"
+        "party": "Lib Dem",
+        "votes": 2284,
+        "percentage": 7.06,
+        "change": -10.34,
+        "name": "John Waddell"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Aberdeen South & Kincardine North</b> with a 20% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Aberdeen South & Kincardine North</b> by 2,755 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:35:09+00:00",
-    "name": "Almond Valley",
-    "percentageMajority": 11.64,
-    "majority": 4245,
-    "turnout": 60.91,
+    "time": "2016-05-06T04:08:26+01:00",
+    "name": "Aberdeenshire East",
+    "percentageMajority": 16.8,
+    "majority": 5837,
+    "turnout": 55.3,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 15912,
+        "percentage": 45.79,
+        "change": -18.71,
+        "name": "Gillian Martin"
+      },
+      {
+        "party": "Con",
+        "votes": 10075,
+        "percentage": 28.99,
+        "change": 15.09,
+        "name": "Colin Clark"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 6611,
+        "percentage": 19.02,
+        "change": 5.03,
+        "name": "Christine Jardine"
+      },
+      {
+        "party": "Lab",
+        "votes": 2155,
+        "percentage": 6.2,
+        "change": -1.41,
+        "name": "Sarah Flavell"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Aberdeenshire East</b> by 5,837 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:27:50+01:00",
+    "name": "Aberdeenshire West",
+    "percentageMajority": 2.56,
+    "majority": 900,
+    "turnout": 59.08,
     "winningParty": "Con",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "Con",
-        "votes": 15956,
-        "percentage": 43.73,
-        "change": 37.6,
-        "name": "John Bennett Test"
+        "votes": 13400,
+        "percentage": 38.07,
+        "change": 17.02,
+        "name": "Alexander Burnett"
       },
       {
         "party": "SNP",
-        "votes": 11711,
-        "percentage": 32.1,
-        "change": -22.25,
-        "name": "Alan Ord Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 6377,
-        "percentage": 17.48,
-        "change": -18.84,
-        "name": "Alan Smith Test"
+        "votes": 12500,
+        "percentage": 35.51,
+        "change": -7.04,
+        "name": "Dennis Robertson"
       },
       {
         "party": "Lib Dem",
-        "votes": 1782,
-        "percentage": 4.88,
-        "change": 2.75,
-        "name": "Martin Moss Test"
+        "votes": 7262,
+        "percentage": 20.63,
+        "change": -7.56,
+        "name": "Mike Rumbles"
       },
       {
-        "party": "Nat Front",
-        "votes": 658,
-        "percentage": 1.8,
-        "change": 0.73,
-        "name": "Ken Bennett Test"
+        "party": "Lab",
+        "votes": 2036,
+        "percentage": 5.78,
+        "change": -2.42,
+        "name": "Sarah Christina Duncan"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Almond Valley</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> by 4,245 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Aberdeenshire West</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> by 900 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:25:48+00:00",
+    "time": "2016-05-06T04:48:56+01:00",
+    "name": "Airdrie & Shotts",
+    "percentageMajority": 23.3,
+    "majority": 6192,
+    "turnout": 49.3,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 13954,
+        "percentage": 52.51,
+        "change": 2.36,
+        "name": "Alex Neil"
+      },
+      {
+        "party": "Lab",
+        "votes": 7762,
+        "percentage": 29.21,
+        "change": -12.57,
+        "name": "Richard Leonard"
+      },
+      {
+        "party": "Con",
+        "votes": 4164,
+        "percentage": 15.67,
+        "change": 9.83,
+        "name": "Eric Holford"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 693,
+        "percentage": 2.61,
+        "change": 0.39,
+        "name": "Louise Young"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Airdrie & Shotts</b> with a 23% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:45:31+01:00",
+    "name": "Almond Valley",
+    "percentageMajority": 24.07,
+    "majority": 8393,
+    "turnout": 53.73,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 18475,
+        "percentage": 52.98,
+        "change": -1.37,
+        "name": "Angela Constance"
+      },
+      {
+        "party": "Lab",
+        "votes": 10082,
+        "percentage": 28.91,
+        "change": -7.4,
+        "name": "Neil Findlay"
+      },
+      {
+        "party": "Con",
+        "votes": 5308,
+        "percentage": 15.22,
+        "change": 9.09,
+        "name": "Stephanie Smith"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1007,
+        "percentage": 2.89,
+        "change": 0.75,
+        "name": "Charles Dundas"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Almond Valley</b> with a 24% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:11:01+01:00",
     "name": "Angus North & Mearns",
-    "percentageMajority": 24.92,
-    "majority": 9387,
-    "turnout": 72.25,
+    "percentageMajority": 8.41,
+    "majority": 2472,
+    "turnout": 54.14,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 21356,
-        "percentage": 56.71,
-        "change": 1.89,
-        "name": "Mark Evans Test"
+        "votes": 13417,
+        "percentage": 45.67,
+        "change": -9.15,
+        "name": "Mairi Evans"
       },
       {
         "party": "Con",
-        "votes": 11969,
-        "percentage": 31.78,
-        "change": 6.2,
-        "name": "Michael Campbell Test"
+        "votes": 10945,
+        "percentage": 37.25,
+        "change": 11.68,
+        "name": "Alex Johnstone"
       },
       {
         "party": "Lab",
-        "votes": 2458,
-        "percentage": 6.53,
-        "change": -6.15,
-        "name": "Linda Williams Test"
+        "votes": 2752,
+        "percentage": 9.37,
+        "change": -3.31,
+        "name": "John Ruddy"
       },
       {
         "party": "Lib Dem",
-        "votes": 1878,
-        "percentage": 4.99,
-        "change": -1.94,
-        "name": "Christopher Francis Test"
+        "votes": 2265,
+        "percentage": 7.71,
+        "change": 0.78,
+        "name": "Euan Davidson"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Angus North & Mearns</b> with a 25% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Angus North & Mearns</b> by 2,472 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:28:03+00:00",
+    "time": "2016-05-06T03:23:19+01:00",
     "name": "Angus South",
-    "percentageMajority": 30.7,
-    "majority": 11573,
-    "turnout": 68.63,
+    "percentageMajority": 13.48,
+    "majority": 4304,
+    "turnout": 56.73,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 21185,
-        "percentage": 56.2,
-        "change": -2.27,
-        "name": "David Gibson Test"
+        "votes": 15622,
+        "percentage": 48.93,
+        "change": -9.55,
+        "name": "Graeme Dey"
       },
       {
         "party": "Con",
-        "votes": 9612,
-        "percentage": 25.5,
-        "change": 5.31,
-        "name": "David Campbell Test"
+        "votes": 11318,
+        "percentage": 35.45,
+        "change": 15.26,
+        "name": "Kirstene Hair"
       },
       {
         "party": "Lab",
-        "votes": 3432,
-        "percentage": 9.1,
-        "change": -4.29,
-        "name": "John Jones Test"
+        "votes": 3773,
+        "percentage": 11.82,
+        "change": -1.58,
+        "name": "Joanne McFadden"
       },
       {
         "party": "Lib Dem",
-        "votes": 1736,
-        "percentage": 4.61,
-        "change": 1.44,
-        "name": "Jimmy Berry Test"
-      },
-      {
-        "party": "Angus Ind",
-        "votes": 1730,
-        "percentage": 4.59,
-        "change": -0.19,
-        "name": "Michael Pritchard Test"
+        "votes": 1216,
+        "percentage": 3.81,
+        "change": 0.65,
+        "name": "Clive Sneddon"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Angus South</b> with a 31% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Angus South</b> by 4,304 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:26:32+00:00",
-    "name": "Ayr",
-    "percentageMajority": 25.25,
-    "majority": 9146,
-    "turnout": 58.84,
+    "time": "2016-05-06T06:12:50+01:00",
+    "name": "Argyll & Bute",
+    "percentageMajority": 20.28,
+    "majority": 5978,
+    "turnout": 60.4,
     "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 13561,
+        "percentage": 46.01,
+        "change": -4.57,
+        "name": "Michael Russell"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 7583,
+        "percentage": 25.73,
+        "change": 13.56,
+        "name": "Alan Reid"
+      },
+      {
+        "party": "Con",
+        "votes": 5840,
+        "percentage": 19.81,
+        "change": 1.51,
+        "name": "Donald Cameron"
+      },
+      {
+        "party": "Lab",
+        "votes": 2492,
+        "percentage": 8.45,
+        "change": -6.81,
+        "name": "Mick Rice"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Argyll & Bute</b> with a 20% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:13:19+01:00",
+    "name": "Ayr",
+    "percentageMajority": 1.99,
+    "majority": 750,
+    "turnout": 61.1,
+    "winningParty": "Con",
     "sittingParty": "Con",
     "votes": [
       {
+        "party": "Con",
+        "votes": 16183,
+        "percentage": 43.02,
+        "change": 4.08,
+        "name": "John Scott"
+      },
+      {
         "party": "SNP",
-        "votes": 18527,
-        "percentage": 51.14,
-        "change": 15.53,
-        "name": "Christine Davies Test"
+        "votes": 15433,
+        "percentage": 41.03,
+        "change": 5.42,
+        "name": "Jennifer Dunn"
       },
       {
         "party": "Lab",
-        "votes": 9381,
-        "percentage": 25.9,
-        "change": 2.59,
-        "name": "Bob Williams Test"
-      },
-      {
-        "party": "Con",
-        "votes": 7080,
-        "percentage": 19.54,
-        "change": -19.4,
-        "name": "Robert Bentley Test"
+        "votes": 5283,
+        "percentage": 14.04,
+        "change": -9.26,
+        "name": "Brian McGinley"
       },
       {
         "party": "Lib Dem",
-        "votes": 1238,
-        "percentage": 3.42,
-        "change": 1.28,
-        "name": "Celia Harris Test"
+        "votes": 716,
+        "percentage": 1.9,
+        "change": -0.23,
+        "name": "Robbie Simpson"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span></b> loses <b>Ayr</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 25% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span></b> holds <b>Ayr</b> by 750 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:30:21+00:00",
+    "time": "2016-05-06T04:45:27+01:00",
     "name": "Banffshire & Buchan Coast",
-    "percentageMajority": 47.03,
-    "majority": 14794,
-    "turnout": 58.58,
+    "percentageMajority": 22.95,
+    "majority": 6583,
+    "turnout": 48.49,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 19678,
-        "percentage": 62.56,
-        "change": -4.68,
-        "name": "Donald Winterton Test"
+        "votes": 15802,
+        "percentage": 55.09,
+        "change": -12.15,
+        "name": "Stewart Stevenson"
       },
       {
         "party": "Con",
-        "votes": 4884,
-        "percentage": 15.53,
-        "change": -2.84,
-        "name": "Helen Robertson Test"
+        "votes": 9219,
+        "percentage": 32.14,
+        "change": 13.78,
+        "name": "Peter Chapman"
+      },
+      {
+        "party": "Lab",
+        "votes": 2372,
+        "percentage": 8.27,
+        "change": -2.3,
+        "name": "Nathan Morrison"
       },
       {
         "party": "Lib Dem",
-        "votes": 4639,
-        "percentage": 14.75,
-        "change": 10.92,
-        "name": "Paul Adams Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 2256,
-        "percentage": 7.17,
-        "change": -3.39,
-        "name": "Ian Kennedy Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Banffshire & Buchan Coast</b> with a 47% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:21:06+00:00",
-    "name": "Clackmannanshire & Dunblane",
-    "percentageMajority": 38.27,
-    "majority": 10431,
-    "turnout": 55.16,
-    "winningParty": "Con",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "Con",
-        "votes": 16583,
-        "percentage": 60.84,
-        "change": 48.07,
-        "name": "Nigel Nolan Test"
-      },
-      {
-        "party": "SNP",
-        "votes": 6152,
-        "percentage": 22.57,
-        "change": -25.77,
-        "name": "Robert MacDonald Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 2673,
-        "percentage": 9.81,
-        "change": -25.37,
-        "name": "Andy Mitchell Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 1850,
-        "percentage": 6.79,
-        "change": 3.07,
-        "name": "Nigel Walker Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Clackmannanshire & Dunblane</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> with a 38% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:23:39+00:00",
-    "name": "Clydebank & Milngavie",
-    "percentageMajority": 15.74,
-    "majority": 4038,
-    "turnout": 48.38,
-    "winningParty": "Lib Dem",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "Lib Dem",
-        "votes": 11507,
-        "percentage": 44.86,
-        "change": 38.63,
-        "name": "Bernard Arnott Test"
-      },
-      {
-        "party": "SNP",
-        "votes": 7469,
-        "percentage": 29.12,
-        "change": -14.16,
-        "name": "Christopher Walsh Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 4270,
-        "percentage": 16.65,
-        "change": -24.11,
-        "name": "Stewart Evans Test"
-      },
-      {
-        "party": "Con",
-        "votes": 2403,
-        "percentage": 9.37,
-        "change": -0.35,
-        "name": "Jason Hope Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Clydebank & Milngavie</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> by 4,038 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:33:20+00:00",
-    "name": "Clydesdale",
-    "percentageMajority": 42.15,
-    "majority": 12537,
-    "turnout": 52.35,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 20122,
-        "percentage": 67.64,
-        "change": 17.77,
-        "name": "Tony Ritchie Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 7585,
-        "percentage": 25.5,
-        "change": -10.29,
-        "name": "Danny Lewis Test"
-      },
-      {
-        "party": "Con",
-        "votes": 2040,
-        "percentage": 6.86,
-        "change": -7.48,
-        "name": "Steve Ellis Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Clydesdale</b> with a 42% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:20:45+00:00",
-    "name": "Cowdenbeath",
-    "percentageMajority": 6.12,
-    "majority": 2035,
-    "turnout": 61.29,
-    "winningParty": "SNP",
-    "sittingParty": "Lab",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 15558,
-        "percentage": 46.76,
-        "change": 5.16,
-        "name": "Wayne Davis Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 13523,
-        "percentage": 40.65,
-        "change": -5.81,
-        "name": "Sandra Cook Test"
-      },
-      {
-        "party": "Con",
-        "votes": 1689,
-        "percentage": 5.08,
-        "change": -1.9,
-        "name": "Rosie Davis Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 1515,
-        "percentage": 4.55,
+        "votes": 1290,
+        "percentage": 4.5,
         "change": 0.67,
-        "name": "Alex Khan Test"
-      },
-      {
-        "party": "Land",
-        "votes": 985,
-        "percentage": 2.96,
-        "change": 1.89,
-        "name": "William Thomas Test"
+        "name": "David Evans"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Cowdenbeath</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 2,035 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Banffshire & Buchan Coast</b> with a 23% majority"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:33:12+00:00",
-    "name": "Cunninghame North",
-    "percentageMajority": 4.93,
-    "majority": 1501,
-    "turnout": 53.83,
-    "winningParty": "Con",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "Con",
-        "votes": 15026,
-        "percentage": 49.37,
-        "change": 35.71,
-        "name": "Vincent Hayes Test"
-      },
-      {
-        "party": "SNP",
-        "votes": 13525,
-        "percentage": 44.43,
-        "change": -8.18,
-        "name": "Gordon Moore Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 989,
-        "percentage": 3.25,
-        "change": -28.65,
-        "name": "John Bennett Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 898,
-        "percentage": 2.95,
-        "change": 1.11,
-        "name": "Peter Adams Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Cunninghame North</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> by 1,501 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:10:27+00:00",
-    "name": "Cunninghame South",
-    "percentageMajority": 3.92,
-    "majority": 1218,
-    "turnout": 60.97,
-    "winningParty": "Lab",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "Lab",
-        "votes": 15205,
-        "percentage": 48.97,
-        "change": 9.78,
-        "name": "Martin Nattrass Test"
-      },
-      {
-        "party": "SNP",
-        "votes": 13987,
-        "percentage": 45.05,
-        "change": -4.79,
-        "name": "John Smith Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 1162,
-        "percentage": 3.74,
-        "change": 1.26,
-        "name": "Peter Holden Test"
-      },
-      {
-        "party": "Con",
-        "votes": 694,
-        "percentage": 2.24,
-        "change": -6.25,
-        "name": "Andy Smith Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Cunninghame South</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> by 1,218 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:14:05+00:00",
-    "name": "Dumbarton",
-    "percentageMajority": 0.58,
-    "majority": 170,
-    "turnout": 55.05,
+    "time": "2016-05-06T02:37:41+01:00",
+    "name": "Clackmannanshire & Dunblane",
+    "percentageMajority": 22.59,
+    "majority": 6721,
+    "turnout": 58.84,
     "winningParty": "SNP",
-    "sittingParty": "Lab",
+    "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 11963,
-        "percentage": 40.64,
-        "change": 2.33,
-        "name": "Dave Lee Test"
-      },
-      {
-        "party": "Con",
-        "votes": 11793,
-        "percentage": 40.07,
-        "change": 28.16,
-        "name": "Caroline Wilson Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 3984,
-        "percentage": 13.54,
-        "change": 10.53,
-        "name": "Jeff Kennedy Test"
+        "votes": 14147,
+        "percentage": 47.56,
+        "change": -0.78,
+        "name": "Keith Brown"
       },
       {
         "party": "Lab",
-        "votes": 1027,
-        "percentage": 3.49,
-        "change": -40.58,
-        "name": "Steve Hughes Test"
+        "votes": 7426,
+        "percentage": 24.96,
+        "change": -10.21,
+        "name": "Craig Miller"
+      },
+      {
+        "party": "Con",
+        "votes": 6915,
+        "percentage": 23.25,
+        "change": 10.48,
+        "name": "Alexander Stewart"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1258,
+        "percentage": 4.23,
+        "change": 0.52,
+        "name": "Christopher McKinlay"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Clackmannanshire & Dunblane</b> with a 23% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:27:43+01:00",
+    "name": "Clydebank & Milngavie",
+    "percentageMajority": 25.68,
+    "majority": 8432,
+    "turnout": 59.97,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16158,
+        "percentage": 49.21,
+        "change": 5.93,
+        "name": "Gil Paterson"
+      },
+      {
+        "party": "Lab",
+        "votes": 7726,
+        "percentage": 23.53,
+        "change": -17.24,
+        "name": "Gail Casey"
+      },
+      {
+        "party": "Con",
+        "votes": 6029,
+        "percentage": 18.36,
+        "change": 8.64,
+        "name": "Maurice Golden"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 2925,
+        "percentage": 8.91,
+        "change": 2.67,
+        "name": "Frank Bowles"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Clydebank & Milngavie</b> with a 26% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T02:58:21+01:00",
+    "name": "Clydesdale",
+    "percentageMajority": 17.78,
+    "majority": 5979,
+    "turnout": 57.5,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 14821,
+        "percentage": 44.09,
+        "change": -5.79,
+        "name": "Aileen Campbell"
+      },
+      {
+        "party": "Con",
+        "votes": 8842,
+        "percentage": 26.3,
+        "change": 11.97,
+        "name": "Alex Allison"
+      },
+      {
+        "party": "Lab",
+        "votes": 6895,
+        "percentage": 20.51,
+        "change": -15.28,
+        "name": "Claudia Beamish"
       },
       {
         "party": "Ind",
-        "votes": 667,
-        "percentage": 2.27,
-        "change": -0.43,
-        "name": "John Wilcock Test"
+        "votes": 1332,
+        "percentage": 3.96,
+        "change": null,
+        "name": "Danny Meikle"
+      },
+      {
+        "party": "CSSInd",
+        "votes": 909,
+        "percentage": 2.7,
+        "change": null,
+        "name": "Bev Gauld"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 820,
+        "percentage": 2.44,
+        "change": null,
+        "name": "Jennifer Jamieson Ball"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Dumbarton</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 170 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Clydesdale</b> by 5,979 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:08:10+00:00",
-    "name": "Dundee City East",
-    "percentageMajority": 4.84,
-    "majority": 1764,
-    "turnout": 67.02,
-    "winningParty": "Lib Dem",
-    "sittingParty": "SNP",
+    "time": "2016-05-06T04:28:19+01:00",
+    "name": "Coatbridge & Chryston",
+    "percentageMajority": 13.34,
+    "majority": 3779,
+    "turnout": 52.31,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
     "votes": [
       {
-        "party": "Lib Dem",
-        "votes": 17373,
-        "percentage": 47.65,
-        "change": 44.54,
-        "name": "Keith Hutton Test"
-      },
-      {
         "party": "SNP",
-        "votes": 15609,
-        "percentage": 42.81,
-        "change": -21.42,
-        "name": "David Davies Test"
+        "votes": 13605,
+        "percentage": 48.02,
+        "change": 7.55,
+        "name": "Fulton MacGregor"
       },
       {
         "party": "Lab",
-        "votes": 2230,
-        "percentage": 6.12,
-        "change": -16.65,
-        "name": "Andrew Webb Test"
+        "votes": 9826,
+        "percentage": 34.68,
+        "change": -17.56,
+        "name": "Elaine Smith"
       },
       {
         "party": "Con",
-        "votes": 1250,
-        "percentage": 3.43,
-        "change": -6.47,
-        "name": "Alastair Gray Test"
+        "votes": 2868,
+        "percentage": 10.12,
+        "change": 4.46,
+        "name": "Robyn Halbert"
+      },
+      {
+        "party": "Green",
+        "votes": 1612,
+        "percentage": 5.69,
+        "change": null,
+        "name": "John Wilson"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 423,
+        "percentage": 1.49,
+        "change": -0.14,
+        "name": "Jenni Lang"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Dundee City East</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> by 1,764 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Coatbridge & Chryston</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 3,779 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:30:51+00:00",
-    "name": "Dundee City West",
-    "percentageMajority": 32.11,
-    "majority": 8986,
-    "turnout": 51.98,
+    "time": "2016-05-06T03:32:28+01:00",
+    "name": "Cowdenbeath",
+    "percentageMajority": 10.23,
+    "majority": 3041,
+    "turnout": 54.46,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 13715,
+        "percentage": 46.13,
+        "change": 4.52,
+        "name": "Annabelle Ewing"
+      },
+      {
+        "party": "Lab",
+        "votes": 10674,
+        "percentage": 35.9,
+        "change": -10.56,
+        "name": "Alex Rowley"
+      },
+      {
+        "party": "Con",
+        "votes": 4251,
+        "percentage": 14.3,
+        "change": 7.32,
+        "name": "Dave Dempsey"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1094,
+        "percentage": 3.68,
+        "change": -0.2,
+        "name": "Bryn Jones"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Cowdenbeath</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 3,041 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:50:48+01:00",
+    "name": "Cumbernauld & Kilsyth",
+    "percentageMajority": 33.48,
+    "majority": 9478,
+    "turnout": 56.66,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 15169,
-        "percentage": 54.2,
-        "change": -3.4,
-        "name": "John Hutton Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 6183,
-        "percentage": 22.09,
-        "change": 17.75,
-        "name": "Brian Stewart Test"
+        "votes": 17015,
+        "percentage": 60.11,
+        "change": 6.27,
+        "name": "Jamie Hepburn"
       },
       {
         "party": "Lab",
-        "votes": 4232,
-        "percentage": 15.12,
-        "change": -16.29,
-        "name": "Robert Norman Test"
+        "votes": 7537,
+        "percentage": 26.62,
+        "change": -13.51,
+        "name": "Mark Griffin"
       },
       {
         "party": "Con",
-        "votes": 2404,
-        "percentage": 8.59,
-        "change": 1.95,
-        "name": "Huw Muir Test"
+        "votes": 3068,
+        "percentage": 10.84,
+        "change": 6.26,
+        "name": "Anthony Newman"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 688,
+        "percentage": 2.43,
+        "change": 0.98,
+        "name": "Irene Lang"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Cumbernauld & Kilsyth</b> with a 33% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:49:57+01:00",
+    "name": "Cunninghame North",
+    "percentageMajority": 27.29,
+    "majority": 8724,
+    "turnout": 57.44,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16587,
+        "percentage": 51.89,
+        "change": -0.72,
+        "name": "Kenneth Gibson"
+      },
+      {
+        "party": "Con",
+        "votes": 7863,
+        "percentage": 24.6,
+        "change": 10.95,
+        "name": "Jamie Greene"
+      },
+      {
+        "party": "Lab",
+        "votes": 6735,
+        "percentage": 21.07,
+        "change": -10.83,
+        "name": "Johanna Baxter"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 780,
+        "percentage": 2.44,
+        "change": 0.6,
+        "name": "Charity Pierce"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Cunninghame North</b> with a 27% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:36:37+01:00",
+    "name": "Cunninghame South",
+    "percentageMajority": 22.16,
+    "majority": 5693,
+    "turnout": 51.17,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 13416,
+        "percentage": 52.21,
+        "change": 2.37,
+        "name": "Ruth Maguire"
+      },
+      {
+        "party": "Lab",
+        "votes": 7723,
+        "percentage": 30.06,
+        "change": -9.14,
+        "name": "Joe Cullinane"
+      },
+      {
+        "party": "Con",
+        "votes": 3940,
+        "percentage": 15.33,
+        "change": 6.85,
+        "name": "Billy McClure"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 616,
+        "percentage": 2.4,
+        "change": -0.08,
+        "name": "Ruby Kirkwood"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Cunninghame South</b> with a 22% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:47:23+01:00",
+    "name": "Dumbarton",
+    "percentageMajority": 0.32,
+    "majority": 109,
+    "turnout": 60.98,
+    "winningParty": "Lab",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "Lab",
+        "votes": 13522,
+        "percentage": 40.25,
+        "change": -3.82,
+        "name": "Jackie Baillie"
+      },
+      {
+        "party": "SNP",
+        "votes": 13413,
+        "percentage": 39.92,
+        "change": 1.61,
+        "name": "Gail Robertson"
+      },
+      {
+        "party": "Con",
+        "votes": 4891,
+        "percentage": 14.56,
+        "change": 2.65,
+        "name": "Maurice Corry"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1131,
+        "percentage": 3.37,
+        "change": 0.36,
+        "name": "Aileen Morton"
+      },
+      {
+        "party": "Ind",
+        "votes": 641,
+        "percentage": 1.91,
+        "change": -0.79,
+        "name": "Andrew Muir"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> holds <b>Dumbarton</b> by 109 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:21:35+01:00",
+    "name": "Dumfriesshire",
+    "percentageMajority": 3.39,
+    "majority": 1230,
+    "turnout": 59.74,
+    "winningParty": "Con",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "Con",
+        "votes": 13536,
+        "percentage": 37.33,
+        "change": 7.65,
+        "name": "Oliver Mundell"
+      },
+      {
+        "party": "SNP",
+        "votes": 12306,
+        "percentage": 33.94,
+        "change": 7.65,
+        "name": "Joan McAlpine"
+      },
+      {
+        "party": "Lab",
+        "votes": 9151,
+        "percentage": 25.24,
+        "change": -14.34,
+        "name": "Elaine Murray"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1267,
+        "percentage": 3.49,
+        "change": -0.95,
+        "name": "Richard Brodie"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Dumfriesshire</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> by 1,230 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T02:47:30+01:00",
+    "name": "Dundee City East",
+    "percentageMajority": 38.32,
+    "majority": 10898,
+    "turnout": 51.46,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16509,
+        "percentage": 58.05,
+        "change": -6.17,
+        "name": "Shona Robison"
+      },
+      {
+        "party": "Lab",
+        "votes": 5611,
+        "percentage": 19.73,
+        "change": -3.03,
+        "name": "Richard McCready"
+      },
+      {
+        "party": "Con",
+        "votes": 4969,
+        "percentage": 17.47,
+        "change": 7.57,
+        "name": "Bill Bowman"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 911,
+        "percentage": 3.2,
+        "change": 0.1,
+        "name": "Craig Duncan"
+      },
+      {
+        "party": "TUSC",
+        "votes": 437,
+        "percentage": 1.54,
+        "change": null,
+        "name": "Leah Ganley"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Dundee City East</b> with a 38% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T02:33:45+01:00",
+    "name": "Dundee City West",
+    "percentageMajority": 31.77,
+    "majority": 8828,
+    "turnout": 51.62,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16070,
+        "percentage": 57.83,
+        "change": 0.23,
+        "name": "Joe FitzPatrick"
+      },
+      {
+        "party": "Lab",
+        "votes": 7242,
+        "percentage": 26.06,
+        "change": -5.35,
+        "name": "Jenny Marra"
+      },
+      {
+        "party": "Con",
+        "votes": 2826,
+        "percentage": 10.17,
+        "change": 3.53,
+        "name": "Nicola Ross"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1008,
+        "percentage": 3.63,
+        "change": -0.72,
+        "name": "Daniel Coleman"
+      },
+      {
+        "party": "TUSC",
+        "votes": 642,
+        "percentage": 2.31,
+        "change": null,
+        "name": "Jim McFarlane"
       }
     ],
     "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Dundee City West</b> with a 32% majority"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:21:26+00:00",
-    "name": "East Kilbride",
-    "percentageMajority": 19.05,
-    "majority": 6129,
-    "turnout": 55.22,
+    "time": "2016-05-06T03:31:10+01:00",
+    "name": "Dunfermline",
+    "percentageMajority": 13.85,
+    "majority": 4558,
+    "turnout": 57,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 17831,
-        "percentage": 55.43,
-        "change": 7.42,
-        "name": "Sean Burt Test"
-      },
-      {
-        "party": "Con",
-        "votes": 11702,
-        "percentage": 36.38,
-        "change": 28.82,
-        "name": "Michael Chapman Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 1499,
-        "percentage": 4.66,
-        "change": 3.1,
-        "name": "David Norman Test"
+        "votes": 14257,
+        "percentage": 43.32,
+        "change": 5.74,
+        "name": "Shirley-Anne Somerville"
       },
       {
         "party": "Lab",
-        "votes": 689,
-        "percentage": 2.14,
-        "change": -39.35,
-        "name": "Jeff Berry Test"
+        "votes": 9699,
+        "percentage": 29.47,
+        "change": -6.09,
+        "name": "Cara Hilton"
       },
       {
-        "party": "Ind",
-        "votes": 448,
-        "percentage": 1.39,
-        "change": 0.01,
-        "name": "Kim Hayes Test"
+        "party": "Con",
+        "votes": 5797,
+        "percentage": 17.62,
+        "change": 10.47,
+        "name": "James Reekie"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 3156,
+        "percentage": 9.59,
+        "change": -10.12,
+        "name": "James Calder"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>East Kilbride</b> by 6,129 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Dunfermline</b> by 4,558 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:33:42+00:00",
-    "name": "East Lothian",
-    "percentageMajority": 31.42,
-    "majority": 12088,
-    "turnout": 68.29,
+    "time": "2016-05-06T02:38:07+01:00",
+    "name": "East Kilbride",
+    "percentageMajority": 31.7,
+    "majority": 10979,
+    "turnout": 56.64,
     "winningParty": "SNP",
-    "sittingParty": "Lab",
+    "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 20334,
-        "percentage": 52.86,
-        "change": 14.37,
-        "name": "Michael Robinson Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 8246,
-        "percentage": 21.43,
-        "change": 15.49,
-        "name": "Jimmy Lynch Test"
-      },
-      {
-        "party": "Con",
-        "votes": 6333,
-        "percentage": 16.46,
-        "change": -0.15,
-        "name": "Robert Kelly Test"
+        "votes": 19371,
+        "percentage": 55.94,
+        "change": 7.93,
+        "name": "Linda Fabiani"
       },
       {
         "party": "Lab",
-        "votes": 3557,
-        "percentage": 9.25,
-        "change": -29.71,
-        "name": "Anne Smith Test"
+        "votes": 8392,
+        "percentage": 24.23,
+        "change": -17.26,
+        "name": "LizAnne Handibode"
+      },
+      {
+        "party": "Con",
+        "votes": 5857,
+        "percentage": 16.91,
+        "change": 9.36,
+        "name": "Graham Simpson"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1009,
+        "percentage": 2.91,
+        "change": 1.35,
+        "name": "Paul McGarry"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>East Lothian</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 31% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>East Kilbride</b> with a 32% majority"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:31:02+00:00",
+    "time": "2016-05-06T03:25:52+01:00",
+    "name": "East Lothian",
+    "percentageMajority": 2.97,
+    "majority": 1127,
+    "turnout": 62.31,
+    "winningParty": "Lab",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "Lab",
+        "votes": 14329,
+        "percentage": 37.79,
+        "change": -1.17,
+        "name": "Iain Gray"
+      },
+      {
+        "party": "SNP",
+        "votes": 13202,
+        "percentage": 34.82,
+        "change": -3.67,
+        "name": "DJ Johnston-Smith"
+      },
+      {
+        "party": "Con",
+        "votes": 9045,
+        "percentage": 23.86,
+        "change": 7.25,
+        "name": "Rachael Hamilton"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1337,
+        "percentage": 3.53,
+        "change": -2.42,
+        "name": "Ettie Spencer"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> holds <b>East Lothian</b> by 1,127 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T02:27:13+01:00",
+    "name": "Eastwood",
+    "percentageMajority": 4.44,
+    "majority": 1611,
+    "turnout": 68.3,
+    "winningParty": "Con",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "Con",
+        "votes": 12932,
+        "percentage": 35.67,
+        "change": 2.31,
+        "name": "Jackson Carlaw"
+      },
+      {
+        "party": "SNP",
+        "votes": 11321,
+        "percentage": 31.23,
+        "change": 6.87,
+        "name": "Stewart Maxwell"
+      },
+      {
+        "party": "Lab",
+        "votes": 11081,
+        "percentage": 30.56,
+        "change": -9.1,
+        "name": "Ken Macintosh"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 921,
+        "percentage": 2.54,
+        "change": -0.08,
+        "name": "John Duncan"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Eastwood</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> by 1,611 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:25:31+01:00",
     "name": "Edinburgh Central",
-    "percentageMajority": 2.86,
-    "majority": 921,
-    "turnout": 60.09,
+    "percentageMajority": 1.79,
+    "majority": 610,
+    "turnout": 57.35,
     "winningParty": "Con",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "Con",
-        "votes": 14552,
-        "percentage": 45.17,
-        "change": 30.17,
-        "name": "Daniel Burgess Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 13631,
-        "percentage": 42.31,
-        "change": 10.46,
-        "name": "Colin Kennedy Test"
+        "votes": 10399,
+        "percentage": 30.43,
+        "change": 15.43,
+        "name": "Ruth Davidson"
       },
       {
         "party": "SNP",
-        "votes": 2911,
-        "percentage": 9.04,
-        "change": -23.64,
-        "name": "Chris Wilcock Test"
+        "votes": 9789,
+        "percentage": 28.65,
+        "change": -4.03,
+        "name": "Alison Dickie"
+      },
+      {
+        "party": "Lab",
+        "votes": 7546,
+        "percentage": 22.08,
+        "change": -9.77,
+        "name": "Sarah Boyack"
+      },
+      {
+        "party": "Green",
+        "votes": 4644,
+        "percentage": 13.59,
+        "change": null,
+        "name": "Alison Johnstone"
       },
       {
         "party": "Lib Dem",
-        "votes": 1120,
-        "percentage": 3.48,
-        "change": -16.99,
-        "name": "John Campbell Test"
+        "votes": 1672,
+        "percentage": 4.89,
+        "change": -15.57,
+        "name": "Hannah Bettsworth"
+      },
+      {
+        "party": "SLP",
+        "votes": 119,
+        "percentage": 0.35,
+        "change": null,
+        "name": "Tom Laird"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Edinburgh Central</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> by 921 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Edinburgh Central</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> by 610 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:10:17+00:00",
+    "time": "2016-05-06T04:17:13+01:00",
+    "name": "Edinburgh Eastern",
+    "percentageMajority": 14.37,
+    "majority": 5087,
+    "turnout": 56.35,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16760,
+        "percentage": 47.35,
+        "change": -0.01,
+        "name": "Ash Denham"
+      },
+      {
+        "party": "Lab",
+        "votes": 11673,
+        "percentage": 32.98,
+        "change": -7.11,
+        "name": "Kezia Dugdale"
+      },
+      {
+        "party": "Con",
+        "votes": 5700,
+        "percentage": 16.1,
+        "change": 7.54,
+        "name": "Nick Cook"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1264,
+        "percentage": 3.57,
+        "change": -0.42,
+        "name": "Cospatric D'Inverno"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Edinburgh Eastern</b> by 5,087 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:54:57+01:00",
     "name": "Edinburgh Northern & Leith",
-    "percentageMajority": 12.68,
-    "majority": 3903,
-    "turnout": 52.05,
+    "percentageMajority": 18.18,
+    "majority": 6746,
+    "turnout": 55.15,
     "winningParty": "SNP",
     "sittingParty": "Lab",
     "votes": [
       {
         "party": "SNP",
-        "votes": 13150,
-        "percentage": 42.72,
-        "change": 3.02,
-        "name": "David Campbell Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 9247,
-        "percentage": 30.04,
-        "change": 20.86,
-        "name": "Andy Webb Test"
+        "votes": 17322,
+        "percentage": 46.69,
+        "change": 6.98,
+        "name": "Ben Macpherson"
       },
       {
         "party": "Lab",
+        "votes": 10576,
+        "percentage": 28.51,
+        "change": -13.13,
+        "name": "Lesley Hinds"
+      },
+      {
+        "party": "Con",
         "votes": 6081,
-        "percentage": 19.76,
-        "change": -21.88,
-        "name": "Andrew Hawkins Test"
+        "percentage": 16.39,
+        "change": 6.91,
+        "name": "Iain McGill"
       },
       {
-        "party": "Con",
-        "votes": 2302,
-        "percentage": 7.48,
-        "change": -2,
-        "name": "Patrick Green Test"
+        "party": "Lib Dem",
+        "votes": 1779,
+        "percentage": 4.79,
+        "change": -4.39,
+        "name": "Martin Veart"
+      },
+      {
+        "party": "Ind",
+        "votes": 1344,
+        "percentage": 3.62,
+        "change": null,
+        "name": "Jack Caldwell"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Edinburgh Northern & Leith</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 3,903 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Edinburgh Northern & Leith</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 6,746 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:16:47+00:00",
+    "time": "2016-05-06T04:32:47+01:00",
     "name": "Edinburgh Pentlands",
-    "percentageMajority": 24.12,
-    "majority": 6442,
-    "turnout": 50.76,
+    "percentageMajority": 7.36,
+    "majority": 2456,
+    "turnout": 60.38,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 13180,
-        "percentage": 49.34,
-        "change": 12.08,
-        "name": "Raymond Morgan Test"
+        "votes": 13181,
+        "percentage": 39.52,
+        "change": 2.26,
+        "name": "Gordon MacDonald"
       },
       {
         "party": "Con",
-        "votes": 6738,
-        "percentage": 25.23,
-        "change": -6.19,
-        "name": "Jim Williams Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 3775,
-        "percentage": 14.13,
-        "change": 9.41,
-        "name": "Stephen McCartney Test"
+        "votes": 10725,
+        "percentage": 32.16,
+        "change": 0.74,
+        "name": "Gordon Lindhurst"
       },
       {
         "party": "Lab",
-        "votes": 3017,
-        "percentage": 11.3,
-        "change": -15.3,
-        "name": "David Ball Test"
+        "votes": 7811,
+        "percentage": 23.42,
+        "change": -3.18,
+        "name": "Blair Heary"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1636,
+        "percentage": 4.91,
+        "change": 0.18,
+        "name": "Emma Farthing-Sykes"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Edinburgh Pentlands</b> with a 24% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Edinburgh Pentlands</b> by 2,456 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:32:21+00:00",
+    "time": "2016-05-06T04:45:27+01:00",
     "name": "Edinburgh Southern",
-    "percentageMajority": 24.5,
-    "majority": 8850,
-    "turnout": 65.83,
-    "winningParty": "SNP",
+    "percentageMajority": 2.94,
+    "majority": 1123,
+    "turnout": 64.21,
+    "winningParty": "Lab",
     "sittingParty": "SNP",
     "votes": [
       {
+        "party": "Lab",
+        "votes": 13597,
+        "percentage": 35.54,
+        "change": 8.16,
+        "name": "Daniel Johnson"
+      },
+      {
         "party": "SNP",
-        "votes": 20204,
-        "percentage": 55.94,
-        "change": 26.5,
-        "name": "Paul Weiss Test"
+        "votes": 12474,
+        "percentage": 32.6,
+        "change": 3.17,
+        "name": "Jim Eadie"
       },
       {
         "party": "Con",
-        "votes": 11354,
-        "percentage": 31.43,
-        "change": 12.8,
-        "name": "Mark Mitchell Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 3000,
-        "percentage": 8.31,
-        "change": -19.08,
-        "name": "James Graham Test"
+        "votes": 9972,
+        "percentage": 26.06,
+        "change": 7.43,
+        "name": "Miles Briggs"
       },
       {
         "party": "Lib Dem",
-        "votes": 1561,
-        "percentage": 4.32,
-        "change": -20.23,
-        "name": "Richard Davies Test"
+        "votes": 2216,
+        "percentage": 5.79,
+        "change": -18.76,
+        "name": "Pramod Subbaraman"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Edinburgh Southern</b> with a 25% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Edinburgh Southern</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> by 1,123 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:12:58+00:00",
+    "time": "2016-05-06T04:08:15+01:00",
+    "name": "Edinburgh Western",
+    "percentageMajority": 7.44,
+    "majority": 2960,
+    "turnout": 64.49,
+    "winningParty": "Lib Dem",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "Lib Dem",
+        "votes": 16645,
+        "percentage": 41.86,
+        "change": 14.13,
+        "name": "Alex Cole-Hamilton"
+      },
+      {
+        "party": "SNP",
+        "votes": 13685,
+        "percentage": 34.41,
+        "change": -1.35,
+        "name": "Toni Giugliano"
+      },
+      {
+        "party": "Con",
+        "votes": 5686,
+        "percentage": 14.3,
+        "change": -0.79,
+        "name": "Sandy Batho"
+      },
+      {
+        "party": "Lab",
+        "votes": 3750,
+        "percentage": 9.43,
+        "change": -11.99,
+        "name": "Cat Headley"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Edinburgh Western</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> by 2,960 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:20:49+01:00",
     "name": "Falkirk East",
-    "percentageMajority": 26.08,
-    "majority": 9415,
-    "turnout": 64.01,
+    "percentageMajority": 25.56,
+    "majority": 8312,
+    "turnout": 53.96,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 19674,
-        "percentage": 54.49,
-        "change": 3.72,
-        "name": "Geoffrey Wallace Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 10259,
-        "percentage": 28.41,
-        "change": 25.83,
-        "name": "Ian Gardner Test"
-      },
-      {
-        "party": "Con",
-        "votes": 4342,
-        "percentage": 12.03,
-        "change": 3.6,
-        "name": "Celia Kelly Test"
+        "votes": 16720,
+        "percentage": 51.41,
+        "change": 0.63,
+        "name": "Angus MacDonald"
       },
       {
         "party": "Lab",
-        "votes": 1831,
-        "percentage": 5.07,
-        "change": -33.15,
-        "name": "Paul Smith Test"
+        "votes": 8408,
+        "percentage": 25.85,
+        "change": -12.37,
+        "name": "Craig Martin"
+      },
+      {
+        "party": "Con",
+        "votes": 6342,
+        "percentage": 19.5,
+        "change": 11.08,
+        "name": "Callum Laidlaw"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1054,
+        "percentage": 3.24,
+        "change": 0.66,
+        "name": "James Munro"
       }
     ],
     "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Falkirk East</b> with a 26% majority"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:11:50+00:00",
-    "name": "Fife North East",
-    "percentageMajority": 31.71,
-    "majority": 10944,
-    "turnout": 58.64,
+    "time": "2016-05-06T03:01:56+01:00",
+    "name": "Falkirk West",
+    "percentageMajority": 35.16,
+    "majority": 11280,
+    "turnout": 53.64,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 20502,
-        "percentage": 59.4,
-        "change": 22.23,
-        "name": "Heather Harris Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 9558,
-        "percentage": 27.69,
-        "change": -0.74,
-        "name": "Nicholas Webb Test"
-      },
-      {
-        "party": "Con",
-        "votes": 3483,
-        "percentage": 10.09,
-        "change": -8.84,
-        "name": "John Schofield Test"
+        "votes": 18260,
+        "percentage": 56.91,
+        "change": 1.57,
+        "name": "Michael Matheson"
       },
       {
         "party": "Lab",
-        "votes": 590,
-        "percentage": 1.71,
-        "change": -10.47,
-        "name": "Mark Burns Test"
-      },
-      {
-        "party": "UKIP",
-        "votes": 383,
-        "percentage": 1.11,
-        "change": -2.19,
-        "name": "Roger Rogers Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Fife North East</b> with a 32% majority"
-  },
-  {
-    "type": "TopUpResult",
-    "time": "2016-03-23T18:25:01+00:00",
-    "name": "Glasgow",
-    "percentageMajority": 14.69,
-    "majority": 33978,
-    "turnout": 45.19,
-    "winningParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 108210,
-        "percentage": 46.77,
-        "change": 6.95
-      },
-      {
-        "party": "Lab",
-        "votes": 74232,
-        "percentage": 32.09,
-        "change": -2.91
-      },
-      {
-        "party": "Green",
-        "votes": 12551,
-        "percentage": 5.43,
-        "change": -0.54
+        "votes": 6980,
+        "percentage": 21.76,
+        "change": -13.22,
+        "name": "Mandy Telford"
       },
       {
         "party": "Con",
-        "votes": 11188,
-        "percentage": 4.84,
-        "change": -1.27
-      },
-      {
-        "party": "Pensioners",
-        "votes": 4004,
-        "percentage": 1.73,
-        "change": -0.07
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 3997,
-        "percentage": 1.73,
-        "change": -0.82
-      },
-      {
-        "party": "CAC",
-        "votes": 3302,
-        "percentage": 1.43,
-        "change": -1.91
-      },
-      {
-        "party": "Soc Lab",
-        "votes": 2959,
-        "percentage": 1.28,
-        "change": 0.19
-      },
-      {
-        "party": "UKIP",
-        "votes": 2840,
-        "percentage": 1.23,
-        "change": 0.69
-      },
-      {
-        "party": "SSP",
-        "votes": 1966,
-        "percentage": 0.85,
-        "change": 0.2
-      },
-      {
-        "party": "SCP",
-        "votes": 1909,
-        "percentage": 0.83,
-        "change": 0.11
-      },
-      {
-        "party": "SUP",
-        "votes": 1761,
-        "percentage": 0.76,
-        "change": 0.07
-      },
-      {
-        "party": "BNP",
-        "votes": 1022,
-        "percentage": 0.44,
-        "change": -0.72
-      },
-      {
-        "party": "Ind",
-        "votes": 999,
-        "percentage": 0.43,
-        "change": null
-      },
-      {
-        "party": "Pirate",
-        "votes": 325,
-        "percentage": 0.14,
-        "change": -0.14
-      },
-      {
-        "party": "Homeland",
-        "votes": 89,
-        "percentage": 0.04,
-        "change": -0.1
-      }
-    ],
-    "topupseats": [
-      {
-        "party": "Lab",
-        "seats": 3
-      },
-      {
-        "party": "SNP",
-        "seats": 2
-      },
-      {
-        "party": "Green",
-        "seats": 1
-      },
-      {
-        "party": "Con",
-        "seats": 1
-      }
-    ],
-    "description": "<b>Glasgow</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 3 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--green\" title=\"Green\"></span>Green</span> 1 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> 1 "
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:25:13+00:00",
-    "name": "Glasgow Anniesland",
-    "percentageMajority": 20.47,
-    "majority": 7597,
-    "turnout": 66.97,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 20521,
-        "percentage": 55.3,
-        "change": 12.12,
-        "name": "Geoffrey Rogers Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 12924,
-        "percentage": 34.83,
-        "change": -8.33,
-        "name": "Celia Clarke Test"
-      },
-      {
-        "party": "Con",
-        "votes": 2833,
-        "percentage": 7.63,
-        "change": -0.77,
-        "name": "Simon Hunt Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 503,
-        "percentage": 1.36,
-        "change": -2.83,
-        "name": "Ray McCarthy Test"
-      },
-      {
-        "party": "Comm Brit",
-        "votes": 327,
-        "percentage": 0.88,
-        "change": -0.19,
-        "name": "Roger Jenkins Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Anniesland</b> with a 20% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:38:22+00:00",
-    "name": "Glasgow Cathcart",
-    "percentageMajority": 20.95,
-    "majority": 6560,
-    "turnout": 53.5,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 15834,
-        "percentage": 50.57,
-        "change": 5.12,
-        "name": "Adrian Cotton Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 9274,
-        "percentage": 29.62,
-        "change": 25.36,
-        "name": "David Walsh Test"
-      },
-      {
-        "party": "Con",
-        "votes": 3791,
-        "percentage": 12.11,
-        "change": 2.92,
-        "name": "Gillian Murphy Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 1763,
-        "percentage": 5.63,
-        "change": -33.75,
-        "name": "Michael Thompson Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 646,
-        "percentage": 2.06,
-        "change": 0.35,
-        "name": "Vincent Wallace Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Cathcart</b> with a 21% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:29:17+00:00",
-    "name": "Glasgow Kelvin",
-    "percentageMajority": 10.44,
-    "majority": 3947,
-    "turnout": 61.06,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 18523,
-        "percentage": 49.01,
-        "change": 5.67,
-        "name": "Simon Hall Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 14576,
-        "percentage": 38.57,
-        "change": -1.18,
-        "name": "Chris Flynn Test"
-      },
-      {
-        "party": "Con",
-        "votes": 2971,
-        "percentage": 7.86,
-        "change": 0.35,
-        "name": "Ron Davies Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 1044,
-        "percentage": 2.76,
-        "change": -4.98,
-        "name": "Ray Morris Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 678,
-        "percentage": 1.79,
-        "change": 0.14,
-        "name": "John Brennan Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Kelvin</b> by 3,947 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:17:22+00:00",
-    "name": "Glasgow Pollok",
-    "percentageMajority": 7.98,
-    "majority": 3190,
-    "turnout": 68.42,
-    "winningParty": "SNP",
-    "sittingParty": "Lab",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 19026,
-        "percentage": 47.59,
-        "change": 2.85,
-        "name": "Simon Harper Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 15836,
-        "percentage": 39.61,
-        "change": -7.85,
-        "name": "Jon Lawrence Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 2846,
-        "percentage": 7.12,
-        "change": 4.98,
-        "name": "John Morris Test"
-      },
-      {
-        "party": "Con",
-        "votes": 2271,
-        "percentage": 5.68,
-        "change": 0.02,
-        "name": "John O'Brien Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Glasgow Pollok</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 3,190 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:07:02+00:00",
-    "name": "Glasgow Southside",
-    "percentageMajority": 29.72,
-    "majority": 9011,
-    "turnout": 57.95,
-    "winningParty": "Con",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "Con",
-        "votes": 15349,
-        "percentage": 50.62,
-        "change": 42.96,
-        "name": "David Thompson Test"
-      },
-      {
-        "party": "SNP",
-        "votes": 6338,
-        "percentage": 20.9,
-        "change": -33.53,
-        "name": "Stella Watson Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 5077,
-        "percentage": 16.74,
-        "change": -18.45,
-        "name": "Andy Reynolds Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 3556,
-        "percentage": 11.73,
-        "change": 9.02,
-        "name": "Patricia Fox Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Glasgow Southside</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> with a 30% majority"
-  },
-  {
-    "type": "TopUpResult",
-    "time": "2016-03-23T18:30:57+00:00",
-    "name": "Highlands & Islands",
-    "percentageMajority": 47.21,
-    "majority": 89568,
-    "turnout": 56.59,
-    "winningParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 108102,
-        "percentage": 56.98,
-        "change": 9.45
-      },
-      {
-        "party": "Con",
-        "votes": 18534,
-        "percentage": 9.77,
-        "change": -1.87
-      },
-      {
-        "party": "Lab",
-        "votes": 18104,
-        "percentage": 9.54,
-        "change": -4.92
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 17821,
-        "percentage": 9.39,
-        "change": -2.75
-      },
-      {
-        "party": "Green",
-        "votes": 10172,
-        "percentage": 5.36,
-        "change": 0.29
-      },
-      {
-        "party": "UKIP",
-        "votes": 3835,
-        "percentage": 2.02,
-        "change": 0.14
-      },
-      {
-        "party": "Pensioners",
-        "votes": 3810,
-        "percentage": 2.01,
-        "change": 0.46
-      },
-      {
-        "party": "SCP",
-        "votes": 3648,
-        "percentage": 1.92,
-        "change": -0.06
-      },
-      {
-        "party": "BBB",
-        "votes": 2601,
-        "percentage": 1.37,
-        "change": 0.39
-      },
-      {
-        "party": "Lib",
-        "votes": 1222,
-        "percentage": 0.64,
-        "change": -0.3
-      },
-      {
-        "party": "BNP",
-        "votes": 1003,
-        "percentage": 0.53,
-        "change": -0.1
-      },
-      {
-        "party": "Soc Lab",
-        "votes": 504,
-        "percentage": 0.27,
-        "change": -0.52
-      },
-      {
-        "party": "SSP",
-        "votes": 317,
-        "percentage": 0.17,
-        "change": -0.12
-      },
-      {
-        "party": "Solidarity",
-        "votes": 59,
-        "percentage": 0.03,
-        "change": -0.08
-      }
-    ],
-    "topupseats": [
-      {
-        "party": "Con",
-        "seats": 3
-      },
-      {
-        "party": "SNP",
-        "seats": 2
-      },
-      {
-        "party": "Lib Dem",
-        "seats": 1
-      },
-      {
-        "party": "Lab",
-        "seats": 1
-      }
-    ],
-    "description": "<b>Highlands & Islands</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> 3 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> 1 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 1 "
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:10:15+00:00",
-    "name": "Inverness & Nairn",
-    "percentageMajority": 7.05,
-    "majority": 2272,
-    "turnout": 51.87,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 15275,
-        "percentage": 47.37,
-        "change": -4.17,
-        "name": "Roger Davis Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 13003,
-        "percentage": 40.33,
-        "change": 28.83,
-        "name": "Diana Shaw Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 1757,
-        "percentage": 5.45,
-        "change": -16.32,
-        "name": "Ian Martin Test"
-      },
-      {
-        "party": "Con",
-        "votes": 826,
-        "percentage": 2.56,
-        "change": -9.04,
-        "name": "Christopher Scott Test"
-      },
-      {
-        "party": "SCP",
-        "votes": 742,
-        "percentage": 2.3,
-        "change": 0.33,
-        "name": "Vincent Stewart Test"
-      },
-      {
-        "party": "UKIP",
-        "votes": 642,
-        "percentage": 1.99,
-        "change": 0.37,
-        "name": "Michael Wilson Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Inverness & Nairn</b> by 2,272 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:23:12+00:00",
-    "name": "Kilmarnock & Irvine Valley",
-    "percentageMajority": 28.02,
-    "majority": 9108,
-    "turnout": 51.38,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 19658,
-        "percentage": 60.48,
-        "change": 7.23,
-        "name": "Peter Adams Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 10550,
-        "percentage": 32.46,
-        "change": 30.53,
-        "name": "Stephen Prentice Test"
-      },
-      {
-        "party": "Con",
-        "votes": 1590,
-        "percentage": 4.89,
-        "change": -5.5,
-        "name": "Robin Hughes Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 706,
-        "percentage": 2.17,
-        "change": -32.27,
-        "name": "Brendan Lewis Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Kilmarnock & Irvine Valley</b> with a 28% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:35:20+00:00",
-    "name": "Kirkcaldy",
-    "percentageMajority": 8,
-    "majority": 2399,
-    "turnout": 49.88,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 13608,
-        "percentage": 45.41,
-        "change": 0.16,
-        "name": "David Stanley Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 11209,
-        "percentage": 37.4,
-        "change": 34.45,
-        "name": "Leslie Carr Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 2892,
-        "percentage": 9.65,
-        "change": -34.94,
-        "name": "Claire Ford Test"
-      },
-      {
-        "party": "Con",
-        "votes": 2260,
-        "percentage": 7.54,
-        "change": 0.32,
-        "name": "Lesley Cooper Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Kirkcaldy</b> by 2,399 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:17:15+00:00",
-    "name": "Linlithgow",
-    "percentageMajority": 40.71,
-    "majority": 16267,
-    "turnout": 61.45,
-    "winningParty": "Con",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "Con",
-        "votes": 21985,
-        "percentage": 55.02,
-        "change": 47.28,
-        "name": "Derek Smith Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 5718,
-        "percentage": 14.31,
-        "change": 11.34,
-        "name": "Jennifer Green Test"
-      },
-      {
-        "party": "SNP",
-        "votes": 5609,
-        "percentage": 14.04,
-        "change": -35.77,
-        "name": "Clive Gardner Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 4329,
-        "percentage": 10.83,
-        "change": -27.01,
-        "name": "Simon Bennett Test"
-      },
-      {
-        "party": "Nat Front",
-        "votes": 2314,
-        "percentage": 5.79,
-        "change": 4.16,
-        "name": "Brian Lloyd Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Linlithgow</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> with a 41% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:27:04+00:00",
-    "name": "Midlothian North & Musselburgh",
-    "percentageMajority": 30.17,
-    "majority": 12443,
-    "turnout": 70.8,
-    "winningParty": "SNP",
-    "sittingParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 19959,
-        "percentage": 48.4,
-        "change": 1.18,
-        "name": "Chris Lynch Test"
-      },
-      {
-        "party": "Con",
-        "votes": 7516,
-        "percentage": 18.23,
-        "change": 9.7,
-        "name": "Hugh Wilcock Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 6237,
-        "percentage": 15.12,
+        "votes": 5877,
+        "percentage": 18.32,
         "change": 10.92,
-        "name": "George Cole Test"
+        "name": "Alison Harris"
       },
       {
-        "party": "Lab",
-        "votes": 4865,
-        "percentage": 11.8,
-        "change": -25.37,
-        "name": "Frank Holmes Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 2662,
-        "percentage": 6.46,
-        "change": 3.57,
-        "name": "Jim Harper Test"
+        "party": "Lib Dem",
+        "votes": 966,
+        "percentage": 3.01,
+        "change": 0.73,
+        "name": "Gillian Cole-Hamilton"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Midlothian North & Musselburgh</b> with a 30% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Falkirk West</b> with a 35% majority"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:19:37+00:00",
-    "name": "Moray",
-    "percentageMajority": 16.23,
-    "majority": 6699,
-    "turnout": 73.43,
+    "time": "2016-05-06T02:57:36+01:00",
+    "name": "Fife Mid & Glenrothes",
+    "percentageMajority": 28.99,
+    "majority": 8276,
+    "turnout": 53.62,
     "winningParty": "SNP",
     "sittingParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 21358,
-        "percentage": 51.74,
-        "change": -7.06,
-        "name": "Jeff Best Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 14659,
-        "percentage": 35.51,
-        "change": 30.87,
-        "name": "Susan Stevenson Test"
+        "votes": 15555,
+        "percentage": 54.49,
+        "change": 2.19,
+        "name": "Jenny Gilruth"
       },
       {
         "party": "Lab",
-        "votes": 4025,
-        "percentage": 9.75,
-        "change": -2.77,
-        "name": "Stephen Hopkins Test"
+        "votes": 7279,
+        "percentage": 25.5,
+        "change": -10.88,
+        "name": "Kay Morrison"
       },
       {
         "party": "Con",
-        "votes": 748,
-        "percentage": 1.81,
-        "change": -18.73,
-        "name": "Neil Thomson Test"
+        "votes": 4427,
+        "percentage": 15.51,
+        "change": 9.14,
+        "name": "Alex Stewart-Clark"
       },
       {
-        "party": "UKIP",
-        "votes": 486,
-        "percentage": 1.18,
-        "change": -2.32,
-        "name": "Richard Jones Test"
+        "party": "Lib Dem",
+        "votes": 1286,
+        "percentage": 4.5,
+        "change": 2.11,
+        "name": "Jane-Ann Liston"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Moray</b> by 6,699 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Fife Mid & Glenrothes</b> with a 29% majority"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:23:38+00:00",
-    "name": "Motherwell & Wishaw",
-    "percentageMajority": 14.45,
-    "majority": 5860,
-    "turnout": 75.66,
-    "winningParty": "SNP",
-    "sittingParty": "Lab",
+    "time": "2016-05-06T03:28:56+01:00",
+    "name": "Fife North East",
+    "percentageMajority": 10.17,
+    "majority": 3465,
+    "turnout": 63.02,
+    "winningParty": "Lib Dem",
+    "sittingParty": "SNP",
     "votes": [
       {
+        "party": "Lib Dem",
+        "votes": 14928,
+        "percentage": 43.82,
+        "change": 15.39,
+        "name": "Willie Rennie"
+      },
+      {
         "party": "SNP",
-        "votes": 16430,
-        "percentage": 40.5,
-        "change": -0.91,
-        "name": "Gordon Clarke Test"
+        "votes": 11463,
+        "percentage": 33.65,
+        "change": -3.51,
+        "name": "Roderick Campbell"
       },
       {
         "party": "Con",
-        "votes": 10570,
-        "percentage": 26.06,
-        "change": 18.89,
-        "name": "Geoffrey Stevens Test"
+        "votes": 5646,
+        "percentage": 16.58,
+        "change": -2.36,
+        "name": "Huw Bell"
       },
       {
         "party": "Lab",
-        "votes": 7508,
-        "percentage": 18.51,
-        "change": -25.31,
-        "name": "David Dunn Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 3405,
-        "percentage": 8.39,
-        "change": 6.89,
-        "name": "Alan Roberts Test"
-      },
-      {
-        "party": "SCP",
-        "votes": 1713,
-        "percentage": 4.22,
-        "change": 1.99,
-        "name": "Tom Green Test"
-      },
-      {
-        "party": "Pensioners",
-        "votes": 938,
-        "percentage": 2.31,
-        "change": -1.55,
-        "name": "Dawn MacDonald Test"
+        "votes": 2026,
+        "percentage": 5.95,
+        "change": -6.23,
+        "name": "Rosalind Garton"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Motherwell & Wishaw</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 5,860 votes"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Fife North East</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> by 3,465 votes"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:15:06+00:00",
-    "name": "Orkney Islands",
-    "percentageMajority": 13.17,
-    "majority": 1281,
-    "turnout": 59.35,
-    "winningParty": "SNP",
-    "sittingParty": "Lib Dem",
+    "time": "2016-05-06T05:05:43+01:00",
+    "name": "Galloway & Dumfries West",
+    "percentageMajority": 4.54,
+    "majority": 1514,
+    "turnout": 59.24,
+    "winningParty": "Con",
+    "sittingParty": "Con",
     "votes": [
       {
+        "party": "Con",
+        "votes": 14527,
+        "percentage": 43.54,
+        "change": 6.64,
+        "name": "Finlay Carson"
+      },
+      {
         "party": "SNP",
-        "votes": 5004,
-        "percentage": 51.43,
-        "change": 26.35,
-        "name": "Monica Martin Test"
+        "votes": 13013,
+        "percentage": 39,
+        "change": 4.97,
+        "name": "Aileen McLeod"
       },
       {
         "party": "Lab",
-        "votes": 3723,
-        "percentage": 38.26,
-        "change": 32.64,
-        "name": "John Murray Test"
-      },
-      {
-        "party": "Con",
-        "votes": 651,
-        "percentage": 6.69,
-        "change": -1.72,
-        "name": "Derek Robinson Test"
+        "votes": 4876,
+        "percentage": 14.61,
+        "change": -11.9,
+        "name": "Fiona O'Donnell"
       },
       {
         "party": "Lib Dem",
-        "votes": 213,
-        "percentage": 2.19,
-        "change": -33.53,
-        "name": "Brian Hope Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 139,
-        "percentage": 1.43,
-        "change": -23.74,
-        "name": "Michael Thomas Test"
+        "votes": 947,
+        "percentage": 2.84,
+        "change": 0.29,
+        "name": "Andrew Metcalf"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span></b> loses <b>Orkney Islands</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 1,281 votes"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:17:42+00:00",
-    "name": "Rutherglen",
-    "percentageMajority": 28.59,
-    "majority": 9041,
-    "turnout": 54.73,
-    "winningParty": "SNP",
-    "sittingParty": "Lab",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 18763,
-        "percentage": 59.34,
-        "change": 19.85,
-        "name": "Ron Taylor Test"
-      },
-      {
-        "party": "Con",
-        "votes": 9722,
-        "percentage": 30.75,
-        "change": 23.02,
-        "name": "Peter Ellis Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 1443,
-        "percentage": 4.56,
-        "change": -41.48,
-        "name": "Mike Morgan Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 938,
-        "percentage": 2.97,
-        "change": 0.63,
-        "name": "John Allen Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 754,
-        "percentage": 2.38,
-        "change": -2.02,
-        "name": "Bill Graham Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Rutherglen</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 29% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span></b> holds <b>Galloway & Dumfries West</b> by 1,514 votes"
   },
   {
     "type": "TopUpResult",
-    "time": "2016-03-23T18:36:25+00:00",
-    "name": "Scotland Mid & Fife",
-    "percentageMajority": 14.03,
-    "majority": 42275,
-    "turnout": 60.91,
+    "time": "2016-05-06T06:04:37+01:00",
+    "name": "Glasgow",
+    "percentageMajority": 20.94,
+    "majority": 51950,
+    "turnout": 47.44,
     "winningParty": "SNP",
     "votes": [
       {
         "party": "SNP",
-        "votes": 117408,
-        "percentage": 38.96,
-        "change": -6.24
+        "votes": 111101,
+        "percentage": 44.78,
+        "change": 4.96
       },
       {
         "party": "Lab",
-        "votes": 75133,
-        "percentage": 24.93,
-        "change": -0.1
+        "votes": 59151,
+        "percentage": 23.84,
+        "change": -11.15
       },
       {
         "party": "Con",
-        "votes": 56219,
-        "percentage": 18.65,
-        "change": 4.53
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 22303,
-        "percentage": 7.4,
-        "change": 1.55
+        "votes": 29533,
+        "percentage": 11.9,
+        "change": 5.79
       },
       {
         "party": "Green",
-        "votes": 9117,
-        "percentage": 3.03,
-        "change": -1.2
+        "votes": 23398,
+        "percentage": 9.43,
+        "change": 3.46
       },
       {
-        "party": "Pensioners",
-        "votes": 6255,
-        "percentage": 2.08,
-        "change": 0.48
+        "party": "Lib Dem",
+        "votes": 5850,
+        "percentage": 2.36,
+        "change": -0.19
       },
       {
         "party": "UKIP",
-        "votes": 4911,
-        "percentage": 1.63,
-        "change": 0.53
-      },
-      {
-        "party": "Ind",
-        "votes": 3640,
-        "percentage": 1.21,
-        "change": null
-      },
-      {
-        "party": "SSP",
-        "votes": 2344,
-        "percentage": 0.78,
-        "change": 0.45
-      },
-      {
-        "party": "Soc Lab",
-        "votes": 1917,
-        "percentage": 0.64,
-        "change": -0.05
-      },
-      {
-        "party": "SCP",
-        "votes": 907,
-        "percentage": 0.3,
-        "change": 0
-      },
-      {
-        "party": "BNP",
-        "votes": 563,
-        "percentage": 0.19,
-        "change": -0.48
-      },
-      {
-        "party": "CPA",
-        "votes": 551,
-        "percentage": 0.18,
-        "change": -0.06
+        "votes": 4889,
+        "percentage": 1.97,
+        "change": 1.43
       },
       {
         "party": "Solidarity",
-        "votes": 98,
-        "percentage": 0.03,
-        "change": -0.05
-      }
-    ],
-    "topupseats": [
-      {
-        "party": "Lab",
-        "seats": 3
-      },
-      {
-        "party": "Con",
-        "seats": 2
-      },
-      {
-        "party": "SNP",
-        "seats": 1
-      },
-      {
-        "party": "Lib Dem",
-        "seats": 1
-      }
-    ],
-    "description": "<b>Scotland Mid & Fife</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 3 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> 1 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> 1 "
-  },
-  {
-    "type": "TopUpResult",
-    "time": "2016-03-23T18:44:46+00:00",
-    "name": "Scotland North East",
-    "percentageMajority": 36.91,
-    "majority": 105893,
-    "turnout": 52.33,
-    "winningParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 157878,
-        "percentage": 55.03,
-        "change": 2.32
-      },
-      {
-        "party": "Lab",
-        "votes": 51985,
-        "percentage": 18.12,
-        "change": 1.68
-      },
-      {
-        "party": "Con",
-        "votes": 42122,
-        "percentage": 14.68,
-        "change": 0.57
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 12217,
-        "percentage": 4.26,
-        "change": -2.55
-      },
-      {
-        "party": "Green",
-        "votes": 8834,
-        "percentage": 3.08,
-        "change": -0.82
-      },
-      {
-        "party": "UKIP",
-        "votes": 2501,
-        "percentage": 0.87,
-        "change": -0.06
-      },
-      {
-        "party": "Pensioners",
-        "votes": 2011,
-        "percentage": 0.7,
-        "change": -0.95
-      },
-      {
-        "party": "BNP",
-        "votes": 1871,
-        "percentage": 0.65,
-        "change": -0.07
-      },
-      {
-        "party": "SCP",
-        "votes": 1701,
-        "percentage": 0.59,
-        "change": -0.22
-      },
-      {
-        "party": "Soc Lab",
-        "votes": 1433,
-        "percentage": 0.5,
-        "change": -0.05
-      },
-      {
-        "party": "SSP",
-        "votes": 1001,
-        "percentage": 0.35,
-        "change": -0.07
-      },
-      {
-        "party": "Ind",
-        "votes": 998,
-        "percentage": 0.35,
+        "votes": 3593,
+        "percentage": 1.45,
         "change": null
       },
       {
-        "party": "Ind Cox",
-        "votes": 871,
-        "percentage": 0.3,
-        "change": 0.02
+        "party": "RISE",
+        "votes": 2454,
+        "percentage": 0.99,
+        "change": null
       },
       {
-        "party": "Ind McBride",
-        "votes": 647,
-        "percentage": 0.23,
-        "change": 0.15
+        "party": "UP",
+        "votes": 2453,
+        "percentage": 0.99,
+        "change": null
       },
       {
-        "party": "Nat Front",
-        "votes": 532,
-        "percentage": 0.19,
-        "change": -0.05
+        "party": "WEP",
+        "votes": 2091,
+        "percentage": 0.84,
+        "change": null
       },
       {
-        "party": "Angus Ind",
-        "votes": 201,
-        "percentage": 0.07,
+        "party": "Animal",
+        "votes": 1819,
+        "percentage": 0.73,
+        "change": null
+      },
+      {
+        "party": "SCP",
+        "votes": 1506,
+        "percentage": 0.61,
         "change": -0.11
       },
       {
-        "party": "Solidarity",
-        "votes": 96,
-        "percentage": 0.03,
-        "change": -0.07
+        "party": "Ind",
+        "votes": 271,
+        "percentage": 0.11,
+        "change": null
       }
     ],
     "topupseats": [
       {
         "party": "Lab",
-        "seats": 3
+        "seats": 4
       },
       {
         "party": "Con",
         "seats": 2
-      },
-      {
-        "party": "SNP",
-        "seats": 1
-      },
-      {
-        "party": "Lib Dem",
-        "seats": 1
-      }
-    ],
-    "description": "<b>Scotland North East</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 3 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> 1 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> 1 "
-  },
-  {
-    "type": "TopUpResult",
-    "time": "2016-03-23T18:49:17+00:00",
-    "name": "Scotland South",
-    "percentageMajority": 22.58,
-    "majority": 77195,
-    "turnout": 65.03,
-    "winningParty": "SNP",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 149710,
-        "percentage": 43.78,
-        "change": 2.81
-      },
-      {
-        "party": "Con",
-        "votes": 72515,
-        "percentage": 21.21,
-        "change": 1.72
-      },
-      {
-        "party": "Lab",
-        "votes": 68099,
-        "percentage": 19.92,
-        "change": -5.4
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 18114,
-        "percentage": 5.3,
-        "change": -0.12
-      },
-      {
-        "party": "UKIP",
-        "votes": 12435,
-        "percentage": 3.64,
-        "change": 2.47
       },
       {
         "party": "Green",
-        "votes": 7109,
-        "percentage": 2.08,
-        "change": -0.98
-      },
-      {
-        "party": "Pensioners",
-        "votes": 6497,
-        "percentage": 1.9,
-        "change": 0.32
-      },
-      {
-        "party": "Soc Lab",
-        "votes": 3968,
-        "percentage": 1.16,
-        "change": 0.12
-      },
-      {
-        "party": "SCP",
-        "votes": 1565,
-        "percentage": 0.46,
-        "change": -0.23
-      },
-      {
-        "party": "BNP",
-        "votes": 1076,
-        "percentage": 0.31,
-        "change": -0.41
-      },
-      {
-        "party": "Solidarity",
-        "votes": 746,
-        "percentage": 0.22,
-        "change": -0.07
-      },
-      {
-        "party": "SSP",
-        "votes": 91,
-        "percentage": 0.03,
-        "change": -0.22
-      }
-    ],
-    "topupseats": [
-      {
-        "party": "SNP",
-        "seats": 2
-      },
-      {
-        "party": "Lib Dem",
-        "seats": 2
-      },
-      {
-        "party": "Lab",
-        "seats": 2
-      },
-      {
-        "party": "UKIP",
         "seats": 1
       }
     ],
-    "description": "<b>Scotland South</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--ukip\" title=\"UKIP\"></span>UKIP</span> 1 "
+    "description": "<b>Glasgow</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 4 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--green\" title=\"Green\"></span>Green</span> 1 "
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:39:27+00:00",
-    "name": "Shetland Islands",
-    "percentageMajority": 20.72,
-    "majority": 2728,
-    "turnout": 75.23,
+    "time": "2016-05-06T04:09:05+01:00",
+    "name": "Glasgow Anniesland",
+    "percentageMajority": 21.21,
+    "majority": 6153,
+    "turnout": 50.13,
     "winningParty": "SNP",
-    "sittingParty": "Lib Dem",
-    "votes": [
-      {
-        "party": "SNP",
-        "votes": 7037,
-        "percentage": 53.44,
-        "change": 41.36,
-        "name": "David Taylor Test"
-      },
-      {
-        "party": "Con",
-        "votes": 4309,
-        "percentage": 32.72,
-        "change": 29.21,
-        "name": "Chris Fisher Test"
-      },
-      {
-        "party": "Lib Dem",
-        "votes": 798,
-        "percentage": 6.06,
-        "change": -41.45,
-        "name": "Mike Stevens Test"
-      },
-      {
-        "party": "Lab",
-        "votes": 621,
-        "percentage": 4.72,
-        "change": -1.89,
-        "name": "William Wallace Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 404,
-        "percentage": 3.07,
-        "change": -27.23,
-        "name": "Richard Chapman Test"
-      }
-    ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span></b> loses <b>Shetland Islands</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 21% majority"
-  },
-  {
-    "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:34:46+00:00",
-    "name": "Stirling",
-    "percentageMajority": 26.01,
-    "majority": 9864,
-    "turnout": 73.71,
-    "winningParty": "Lab",
     "sittingParty": "SNP",
     "votes": [
       {
-        "party": "Lab",
-        "votes": 21994,
-        "percentage": 57.98,
-        "change": 27.77,
-        "name": "Linda Williams Test"
+        "party": "SNP",
+        "votes": 15007,
+        "percentage": 51.72,
+        "change": 8.53,
+        "name": "Bill Kidd"
       },
       {
-        "party": "SNP",
-        "votes": 12130,
-        "percentage": 31.98,
-        "change": -16.89,
-        "name": "John Dunn Test"
+        "party": "Lab",
+        "votes": 8854,
+        "percentage": 30.51,
+        "change": -12.64,
+        "name": "Bill Butler"
       },
       {
         "party": "Con",
-        "votes": 2385,
-        "percentage": 6.29,
-        "change": -8.87,
-        "name": "Stephen Ellis Test"
+        "votes": 4057,
+        "percentage": 13.98,
+        "change": 5.57,
+        "name": "Adam Tomkins"
       },
       {
         "party": "Lib Dem",
-        "votes": 862,
-        "percentage": 2.27,
-        "change": -1.99,
-        "name": "Jackie Williams Test"
-      },
-      {
-        "party": "Ind",
-        "votes": 560,
-        "percentage": 1.48,
-        "change": -0.02,
-        "name": "Lynne Roberts Test"
+        "votes": 1098,
+        "percentage": 3.78,
+        "change": -0.4,
+        "name": "James Speirs"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> loses <b>Stirling</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> with a 26% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Anniesland</b> with a 21% majority"
   },
   {
     "type": "FirstPastThePostResult",
-    "time": "2016-03-23T18:28:28+00:00",
-    "name": "Uddingston & Bellshill",
-    "percentageMajority": 20.69,
-    "majority": 6144,
-    "turnout": 53.43,
+    "time": "2016-05-06T04:40:39+01:00",
+    "name": "Glasgow Cathcart",
+    "percentageMajority": 30.65,
+    "majority": 9390,
+    "turnout": 50.33,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16200,
+        "percentage": 52.88,
+        "change": 7.43,
+        "name": "James Dornan"
+      },
+      {
+        "party": "Lab",
+        "votes": 6810,
+        "percentage": 22.23,
+        "change": -17.15,
+        "name": "Soryia Siddique"
+      },
+      {
+        "party": "Con",
+        "votes": 4514,
+        "percentage": 14.73,
+        "change": 5.54,
+        "name": "Kyle Thornton"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1703,
+        "percentage": 5.56,
+        "change": 1.3,
+        "name": "Margot Clark"
+      },
+      {
+        "party": "TUSC",
+        "votes": 909,
+        "percentage": 2.97,
+        "change": null,
+        "name": "Brian Smith"
+      },
+      {
+        "party": "Ind",
+        "votes": 501,
+        "percentage": 1.64,
+        "change": -0.08,
+        "name": "Chris Creighton"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Cathcart</b> with a 31% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:48:08+01:00",
+    "name": "Glasgow Kelvin",
+    "percentageMajority": 14.23,
+    "majority": 4048,
+    "turnout": 45.72,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 10964,
+        "percentage": 38.55,
+        "change": -4.8,
+        "name": "Sandra White"
+      },
+      {
+        "party": "Green",
+        "votes": 6916,
+        "percentage": 24.32,
+        "change": null,
+        "name": "Patrick Harvie"
+      },
+      {
+        "party": "Lab",
+        "votes": 5968,
+        "percentage": 20.98,
+        "change": -18.77,
+        "name": "Michael Shanks"
+      },
+      {
+        "party": "Con",
+        "votes": 3346,
+        "percentage": 11.76,
+        "change": 4.25,
+        "name": "Sheila Mechan"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1050,
+        "percentage": 3.69,
+        "change": -4.05,
+        "name": "Carole Ford"
+      },
+      {
+        "party": "Ind",
+        "votes": 198,
+        "percentage": 0.7,
+        "change": -0.95,
+        "name": "Tom Muirhead"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Kelvin</b> by 4,048 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:32:57+01:00",
+    "name": "Glasgow Maryhill & Springburn",
+    "percentageMajority": 23.73,
+    "majority": 5602,
+    "turnout": 44.01,
     "winningParty": "SNP",
     "sittingParty": "Lab",
     "votes": [
       {
         "party": "SNP",
-        "votes": 14871,
-        "percentage": 50.07,
-        "change": 6.8,
-        "name": "Robert Kennedy Test"
-      },
-      {
-        "party": "Con",
-        "votes": 8727,
-        "percentage": 29.38,
-        "change": 20.92,
-        "name": "Jill Robertson Test"
+        "votes": 13109,
+        "percentage": 55.52,
+        "change": 13.67,
+        "name": "Bob Doris"
       },
       {
         "party": "Lab",
-        "votes": 3660,
-        "percentage": 12.32,
-        "change": -33.81,
-        "name": "Peter Davies Test"
+        "votes": 7507,
+        "percentage": 31.79,
+        "change": -16.35,
+        "name": "Patricia Ferguson"
+      },
+      {
+        "party": "Con",
+        "votes": 2305,
+        "percentage": 9.76,
+        "change": 3.81,
+        "name": "John Anderson"
       },
       {
         "party": "Lib Dem",
-        "votes": 2441,
-        "percentage": 8.22,
-        "change": 6.1,
-        "name": "David Burgess Test"
+        "votes": 691,
+        "percentage": 2.93,
+        "change": -1.13,
+        "name": "James Harrison"
       }
     ],
-    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Uddingston & Bellshill</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 21% majority"
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Glasgow Maryhill & Springburn</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 24% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:24:48+01:00",
+    "name": "Glasgow Pollok",
+    "percentageMajority": 23.2,
+    "majority": 6482,
+    "turnout": 45.55,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 15316,
+        "percentage": 54.81,
+        "change": 10.07,
+        "name": "Humza Yousaf"
+      },
+      {
+        "party": "Lab",
+        "votes": 8834,
+        "percentage": 31.61,
+        "change": -15.84,
+        "name": "Johann Lamont"
+      },
+      {
+        "party": "Con",
+        "votes": 2653,
+        "percentage": 9.49,
+        "change": 3.83,
+        "name": "Thomas Haddow"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 585,
+        "percentage": 2.09,
+        "change": -0.04,
+        "name": "Isabel Nelson"
+      },
+      {
+        "party": "TUSC",
+        "votes": 555,
+        "percentage": 1.99,
+        "change": null,
+        "name": "Ian Leech"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Glasgow Pollok</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 23% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T05:12:55+01:00",
+    "name": "Glasgow Provan",
+    "percentageMajority": 19.87,
+    "majority": 4783,
+    "turnout": 42.87,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 13140,
+        "percentage": 54.57,
+        "change": 13.09,
+        "name": "Ivan McKee"
+      },
+      {
+        "party": "Lab",
+        "votes": 8357,
+        "percentage": 34.71,
+        "change": -17.61,
+        "name": "Paul Martin"
+      },
+      {
+        "party": "Con",
+        "votes": 2062,
+        "percentage": 8.56,
+        "change": 4.51,
+        "name": "Annie Wells"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 518,
+        "percentage": 2.15,
+        "change": 0,
+        "name": "Tom Coleman"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Glasgow Provan</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 4,783 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T05:06:03+01:00",
+    "name": "Glasgow Shettleston",
+    "percentageMajority": 28.86,
+    "majority": 7323,
+    "turnout": 43.73,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 14198,
+        "percentage": 55.95,
+        "change": 8.19,
+        "name": "John Mason"
+      },
+      {
+        "party": "Lab",
+        "votes": 6875,
+        "percentage": 27.09,
+        "change": -17.91,
+        "name": "Thomas Rannachan"
+      },
+      {
+        "party": "Con",
+        "votes": 3151,
+        "percentage": 12.42,
+        "change": 6.93,
+        "name": "Thomas Kerr"
+      },
+      {
+        "party": "TUSC",
+        "votes": 583,
+        "percentage": 2.3,
+        "change": null,
+        "name": "Jamie Cocozza"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 568,
+        "percentage": 2.24,
+        "change": 0.49,
+        "name": "Giovanni Caccavello"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Shettleston</b> with a 29% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:55:37+01:00",
+    "name": "Glasgow Southside",
+    "percentageMajority": 38.52,
+    "majority": 9593,
+    "turnout": 47.76,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 15287,
+        "percentage": 61.39,
+        "change": 6.95,
+        "name": "Nicola Sturgeon"
+      },
+      {
+        "party": "Lab",
+        "votes": 5694,
+        "percentage": 22.86,
+        "change": -12.33,
+        "name": "Fariha Thomas"
+      },
+      {
+        "party": "Con",
+        "votes": 3100,
+        "percentage": 12.45,
+        "change": 4.78,
+        "name": "Graham Hutchison"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 822,
+        "percentage": 3.3,
+        "change": 0.59,
+        "name": "Kevin Lewsey"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Glasgow Southside</b> with a 39% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T02:31:40+01:00",
+    "name": "Greenock & Inverclyde",
+    "percentageMajority": 25.94,
+    "majority": 8230,
+    "turnout": 57.5,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 17032,
+        "percentage": 53.69,
+        "change": 11.58,
+        "name": "Stuart McMillan"
+      },
+      {
+        "party": "Lab",
+        "votes": 8802,
+        "percentage": 27.74,
+        "change": -16.17,
+        "name": "Siobhan McCready"
+      },
+      {
+        "party": "Con",
+        "votes": 4487,
+        "percentage": 14.14,
+        "change": 7.01,
+        "name": "Graeme Brooks"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1404,
+        "percentage": 4.43,
+        "change": -2.43,
+        "name": "John Watson"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Greenock & Inverclyde</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 26% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:37:10+01:00",
+    "name": "Inverness & Nairn",
+    "percentageMajority": 28.33,
+    "majority": 10857,
+    "turnout": 57.52,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 18505,
+        "percentage": 48.29,
+        "change": -3.25,
+        "name": "Fergus Ewing"
+      },
+      {
+        "party": "Con",
+        "votes": 7648,
+        "percentage": 19.96,
+        "change": 8.36,
+        "name": "Edward Mountain"
+      },
+      {
+        "party": "Lab",
+        "votes": 6719,
+        "percentage": 17.54,
+        "change": -4.23,
+        "name": "David Stewart"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 5445,
+        "percentage": 14.21,
+        "change": 2.71,
+        "name": "Carolyn Caddick"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Inverness & Nairn</b> with a 28% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T02:26:12+01:00",
+    "name": "Kilmarnock & Irvine Valley",
+    "percentageMajority": 32.55,
+    "majority": 11194,
+    "turnout": 54.91,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 19047,
+        "percentage": 55.39,
+        "change": 2.14,
+        "name": "Willie Coffey"
+      },
+      {
+        "party": "Lab",
+        "votes": 7853,
+        "percentage": 22.84,
+        "change": -11.6,
+        "name": "Dave Meechan"
+      },
+      {
+        "party": "Con",
+        "votes": 6597,
+        "percentage": 19.19,
+        "change": 8.8,
+        "name": "Brian Whittle"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 888,
+        "percentage": 2.58,
+        "change": 0.66,
+        "name": "Rebecca Plenderleith"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Kilmarnock & Irvine Valley</b> with a 33% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:40:28+01:00",
+    "name": "Kirkcaldy",
+    "percentageMajority": 23.77,
+    "majority": 7395,
+    "turnout": 52.25,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16358,
+        "percentage": 52.58,
+        "change": 7.34,
+        "name": "David Torrance"
+      },
+      {
+        "party": "Lab",
+        "votes": 8963,
+        "percentage": 28.81,
+        "change": -15.78,
+        "name": "Claire Baker"
+      },
+      {
+        "party": "Con",
+        "votes": 4568,
+        "percentage": 14.68,
+        "change": 7.47,
+        "name": "Martin Laidlaw"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1219,
+        "percentage": 3.92,
+        "change": 0.97,
+        "name": "Lauren Jones"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Kirkcaldy</b> with a 24% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T05:09:17+01:00",
+    "name": "Linlithgow",
+    "percentageMajority": 24.31,
+    "majority": 9335,
+    "turnout": 53.77,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 19362,
+        "percentage": 50.41,
+        "change": 0.6,
+        "name": "Fiona Hyslop"
+      },
+      {
+        "party": "Lab",
+        "votes": 10027,
+        "percentage": 26.11,
+        "change": -11.74,
+        "name": "Angela Moohan"
+      },
+      {
+        "party": "Con",
+        "votes": 7699,
+        "percentage": 20.05,
+        "change": 12.3,
+        "name": "Charles Kennedy"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1319,
+        "percentage": 3.43,
+        "change": 0.46,
+        "name": "Dan Farthing-Sykes"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Linlithgow</b> with a 24% majority"
+  },
+  {
+    "type": "TopUpResult",
+    "time": "2016-05-06T06:23:37+01:00",
+    "name": "Lothian",
+    "percentageMajority": 13.32,
+    "majority": 43574,
+    "turnout": 57.82,
+    "winningParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 118546,
+        "percentage": 36.23,
+        "change": -2.95
+      },
+      {
+        "party": "Con",
+        "votes": 74972,
+        "percentage": 22.91,
+        "change": 11.26
+      },
+      {
+        "party": "Lab",
+        "votes": 67991,
+        "percentage": 20.78,
+        "change": -4.13
+      },
+      {
+        "party": "Green",
+        "votes": 34551,
+        "percentage": 10.56,
+        "change": 2.97
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 18479,
+        "percentage": 5.65,
+        "change": 0.14
+      },
+      {
+        "party": "UKIP",
+        "votes": 5802,
+        "percentage": 1.77,
+        "change": 1.13
+      },
+      {
+        "party": "WEP",
+        "votes": 3877,
+        "percentage": 1.18,
+        "change": null
+      },
+      {
+        "party": "RISE",
+        "votes": 1641,
+        "percentage": 0.5,
+        "change": null
+      },
+      {
+        "party": "Solidarity",
+        "votes": 1319,
+        "percentage": 0.4,
+        "change": 0.29
+      }
+    ],
+    "topupseats": [
+      {
+        "party": "Con",
+        "seats": 3
+      },
+      {
+        "party": "Green",
+        "seats": 2
+      },
+      {
+        "party": "Lab",
+        "seats": 2
+      }
+    ],
+    "description": "<b>Lothian</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> 3 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--green\" title=\"Green\"></span>Green</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 2 "
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:25:55+01:00",
+    "name": "Midlothian North & Musselburgh",
+    "percentageMajority": 20.28,
+    "majority": 7035,
+    "turnout": 54.74,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16948,
+        "percentage": 48.86,
+        "change": 1.65,
+        "name": "Colin Beattie"
+      },
+      {
+        "party": "Lab",
+        "votes": 9913,
+        "percentage": 28.58,
+        "change": -8.59,
+        "name": "Bernard Harkins"
+      },
+      {
+        "party": "Con",
+        "votes": 6267,
+        "percentage": 18.07,
+        "change": 9.55,
+        "name": "Jeremy Balfour"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1557,
+        "percentage": 4.49,
+        "change": 0.28,
+        "name": "Jacquie Bell"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Midlothian North & Musselburgh</b> with a 20% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:00:31+01:00",
+    "name": "Moray",
+    "percentageMajority": 8.6,
+    "majority": 2875,
+    "turnout": 53.93,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 15742,
+        "percentage": 47.1,
+        "change": -11.71,
+        "name": "Richard Lochhead"
+      },
+      {
+        "party": "Con",
+        "votes": 12867,
+        "percentage": 38.5,
+        "change": 17.96,
+        "name": "Douglas Ross"
+      },
+      {
+        "party": "Lab",
+        "votes": 3547,
+        "percentage": 10.61,
+        "change": -1.91,
+        "name": "Sean Morton"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1265,
+        "percentage": 3.79,
+        "change": -0.86,
+        "name": "Jamie Paterson"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Moray</b> by 2,875 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:13:39+01:00",
+    "name": "Motherwell & Wishaw",
+    "percentageMajority": 21.38,
+    "majority": 6223,
+    "turnout": 51.03,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 15291,
+        "percentage": 52.53,
+        "change": 11.11,
+        "name": "Clare Adamson"
+      },
+      {
+        "party": "Lab",
+        "votes": 9068,
+        "percentage": 31.15,
+        "change": -12.66,
+        "name": "John Pentland"
+      },
+      {
+        "party": "Con",
+        "votes": 3991,
+        "percentage": 13.71,
+        "change": 6.54,
+        "name": "Meghan Gallacher"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 761,
+        "percentage": 2.61,
+        "change": 1.11,
+        "name": "Yvonne Finlayson"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Motherwell & Wishaw</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> with a 21% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T00:46:59+01:00",
+    "name": "Orkney Islands",
+    "percentageMajority": 43.04,
+    "majority": 4534,
+    "turnout": 61.98,
+    "winningParty": "Lib Dem",
+    "sittingParty": "Lib Dem",
+    "votes": [
+      {
+        "party": "Lib Dem",
+        "votes": 7096,
+        "percentage": 67.36,
+        "change": 31.64,
+        "name": "Liam McArthur"
+      },
+      {
+        "party": "SNP",
+        "votes": 2562,
+        "percentage": 24.32,
+        "change": -0.75,
+        "name": "Donna Heddle"
+      },
+      {
+        "party": "Con",
+        "votes": 435,
+        "percentage": 4.13,
+        "change": -4.29,
+        "name": "Jamie Halcro Johnston"
+      },
+      {
+        "party": "Lab",
+        "votes": 304,
+        "percentage": 2.89,
+        "change": -2.73,
+        "name": "Gerry McGarvey"
+      },
+      {
+        "party": "Ind",
+        "votes": 137,
+        "percentage": 1.3,
+        "change": -23.87,
+        "name": "Paul Dawson"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span></b> holds <b>Orkney Islands</b> with a 43% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:19:00+01:00",
+    "name": "Paisley",
+    "percentageMajority": 17.65,
+    "majority": 5199,
+    "turnout": 57.02,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 14682,
+        "percentage": 49.83,
+        "change": 7.18,
+        "name": "George Adam"
+      },
+      {
+        "party": "Lab",
+        "votes": 9483,
+        "percentage": 32.19,
+        "change": -9.49,
+        "name": "Neil Bibby"
+      },
+      {
+        "party": "Con",
+        "votes": 3533,
+        "percentage": 11.99,
+        "change": 3.28,
+        "name": "Paul Masterton"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1766,
+        "percentage": 5.99,
+        "change": -0.97,
+        "name": "Eileen McCartin"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Paisley</b> by 5,199 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:41:17+01:00",
+    "name": "Perthshire North",
+    "percentageMajority": 9.8,
+    "majority": 3336,
+    "turnout": 62.71,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16526,
+        "percentage": 48.57,
+        "change": -12.26,
+        "name": "John Swinney"
+      },
+      {
+        "party": "Con",
+        "votes": 13190,
+        "percentage": 38.77,
+        "change": 12.5,
+        "name": "Murdo Fraser"
+      },
+      {
+        "party": "Lab",
+        "votes": 2604,
+        "percentage": 7.65,
+        "change": -1.27,
+        "name": "Anna McEwan"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1705,
+        "percentage": 5.01,
+        "change": 1.02,
+        "name": "Peter Barrett"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Perthshire North</b> by 3,336 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:57:41+01:00",
+    "name": "Renfrewshire North & West",
+    "percentageMajority": 23.93,
+    "majority": 7373,
+    "turnout": 60.94,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 14718,
+        "percentage": 47.77,
+        "change": 5.91,
+        "name": "Derek Mackay"
+      },
+      {
+        "party": "Con",
+        "votes": 7345,
+        "percentage": 23.84,
+        "change": 3.88,
+        "name": "David Wilson"
+      },
+      {
+        "party": "Lab",
+        "votes": 7244,
+        "percentage": 23.51,
+        "change": -12.66,
+        "name": "Mary Fee"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 888,
+        "percentage": 2.88,
+        "change": 0.88,
+        "name": "Rod Ackland"
+      },
+      {
+        "party": "TUSC",
+        "votes": 414,
+        "percentage": 1.34,
+        "change": null,
+        "name": "Jim Halfpenny"
+      },
+      {
+        "party": "Ind",
+        "votes": 198,
+        "percentage": 0.64,
+        "change": null,
+        "name": "Peter Morton"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Renfrewshire North & West</b> with a 24% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T04:31:35+01:00",
+    "name": "Renfrewshire South",
+    "percentageMajority": 14.85,
+    "majority": 4408,
+    "turnout": 60.06,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 14272,
+        "percentage": 48.08,
+        "change": 9.6,
+        "name": "Thomas Arthur"
+      },
+      {
+        "party": "Lab",
+        "votes": 9864,
+        "percentage": 33.23,
+        "change": -14.83,
+        "name": "Paul O'Kane"
+      },
+      {
+        "party": "Con",
+        "votes": 4752,
+        "percentage": 16.01,
+        "change": 5.17,
+        "name": "Ann Le Blond"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 793,
+        "percentage": 2.67,
+        "change": 0.06,
+        "name": "Tristan Gray"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Renfrewshire South</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 4,408 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T00:57:53+01:00",
+    "name": "Rutherglen",
+    "percentageMajority": 11.36,
+    "majority": 3743,
+    "turnout": 54.28,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 15222,
+        "percentage": 46.19,
+        "change": 6.71,
+        "name": "Clare Haughey"
+      },
+      {
+        "party": "Lab",
+        "votes": 11479,
+        "percentage": 34.84,
+        "change": -11.21,
+        "name": "James Kelly"
+      },
+      {
+        "party": "Con",
+        "votes": 3718,
+        "percentage": 11.28,
+        "change": 3.56,
+        "name": "Taylor Muir"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 2533,
+        "percentage": 7.69,
+        "change": 3.28,
+        "name": "Robert Brown"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Rutherglen</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 3,743 votes"
+  },
+  {
+    "type": "TopUpResult",
+    "time": "2016-05-06T06:20:35+01:00",
+    "name": "Scotland Mid & Fife",
+    "percentageMajority": 16.08,
+    "majority": 46835,
+    "turnout": 58.33,
+    "winningParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 120128,
+        "percentage": 41.26,
+        "change": -3.94
+      },
+      {
+        "party": "Con",
+        "votes": 73293,
+        "percentage": 25.17,
+        "change": 11.05
+      },
+      {
+        "party": "Lab",
+        "votes": 51373,
+        "percentage": 17.64,
+        "change": -7.39
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 20401,
+        "percentage": 7.01,
+        "change": 1.16
+      },
+      {
+        "party": "Green",
+        "votes": 17860,
+        "percentage": 6.13,
+        "change": 1.91
+      },
+      {
+        "party": "UKIP",
+        "votes": 5345,
+        "percentage": 1.84,
+        "change": 0.74
+      },
+      {
+        "party": "RISE",
+        "votes": 1073,
+        "percentage": 0.37,
+        "change": null
+      },
+      {
+        "party": "Solidarity",
+        "votes": 1049,
+        "percentage": 0.36,
+        "change": 0.28
+      },
+      {
+        "party": "SLP",
+        "votes": 650,
+        "percentage": 0.22,
+        "change": null
+      }
+    ],
+    "topupseats": [
+      {
+        "party": "Con",
+        "seats": 4
+      },
+      {
+        "party": "Lab",
+        "seats": 2
+      },
+      {
+        "party": "Green",
+        "seats": 1
+      }
+    ],
+    "description": "<b>Scotland Mid & Fife</b> regional top-up seats: <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--con\" title=\"Con\"></span>Con</span> 4 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span> 2 <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--green\" title=\"Green\"></span>Green</span> 1 "
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T02:20:16+01:00",
+    "name": "Shetland Islands",
+    "percentageMajority": 44.33,
+    "majority": 4895,
+    "turnout": 62.08,
+    "winningParty": "Lib Dem",
+    "sittingParty": "Lib Dem",
+    "votes": [
+      {
+        "party": "Lib Dem",
+        "votes": 7440,
+        "percentage": 67.39,
+        "change": 19.87,
+        "name": "Tavish Scott"
+      },
+      {
+        "party": "SNP",
+        "votes": 2545,
+        "percentage": 23.05,
+        "change": 10.98,
+        "name": "Danus Skene"
+      },
+      {
+        "party": "Lab",
+        "votes": 651,
+        "percentage": 5.9,
+        "change": -0.71,
+        "name": "Robina Barton"
+      },
+      {
+        "party": "Con",
+        "votes": 405,
+        "percentage": 3.67,
+        "change": 0.15,
+        "name": "Cameron Smith"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lib-dem\" title=\"Lib Dem\"></span>Lib Dem</span></b> holds <b>Shetland Islands</b> with a 44% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:32:45+01:00",
+    "name": "Stirling",
+    "percentageMajority": 19.65,
+    "majority": 6718,
+    "turnout": 61.29,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 16303,
+        "percentage": 47.68,
+        "change": -1.18,
+        "name": "Bruce Crawford"
+      },
+      {
+        "party": "Con",
+        "votes": 9585,
+        "percentage": 28.04,
+        "change": 12.87,
+        "name": "Dean Lockhart"
+      },
+      {
+        "party": "Lab",
+        "votes": 6885,
+        "percentage": 20.14,
+        "change": -10.08,
+        "name": "Rebecca Bell"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 1416,
+        "percentage": 4.14,
+        "change": -0.12,
+        "name": "Elisabeth Wilson"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Stirling</b> by 6,718 votes"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T03:37:35+01:00",
+    "name": "Strathkelvin & Bearsden",
+    "percentageMajority": 20.67,
+    "majority": 8100,
+    "turnout": 62.6,
+    "winningParty": "SNP",
+    "sittingParty": "SNP",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 17060,
+        "percentage": 43.53,
+        "change": 1.29,
+        "name": "Rona Mackay"
+      },
+      {
+        "party": "Con",
+        "votes": 8960,
+        "percentage": 22.86,
+        "change": 9.72,
+        "name": "Andrew Polson"
+      },
+      {
+        "party": "Lab",
+        "votes": 8288,
+        "percentage": 21.15,
+        "change": -15.76,
+        "name": "Margaret McCarthy"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 4880,
+        "percentage": 12.45,
+        "change": 4.75,
+        "name": "Katy Gordon"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span></b> holds <b>Strathkelvin & Bearsden</b> with a 21% majority"
+  },
+  {
+    "type": "FirstPastThePostResult",
+    "time": "2016-05-06T05:07:16+01:00",
+    "name": "Uddingston & Bellshill",
+    "percentageMajority": 16.28,
+    "majority": 4809,
+    "turnout": 51.33,
+    "winningParty": "SNP",
+    "sittingParty": "Lab",
+    "votes": [
+      {
+        "party": "SNP",
+        "votes": 14424,
+        "percentage": 48.82,
+        "change": 5.55,
+        "name": "Richard Lyle"
+      },
+      {
+        "party": "Lab",
+        "votes": 9615,
+        "percentage": 32.55,
+        "change": -13.59,
+        "name": "Michael McMahon"
+      },
+      {
+        "party": "Con",
+        "votes": 4693,
+        "percentage": 15.89,
+        "change": 7.42,
+        "name": "Andrew Morrison"
+      },
+      {
+        "party": "Lib Dem",
+        "votes": 811,
+        "percentage": 2.75,
+        "change": 0.62,
+        "name": "Kaitey Blair"
+      }
+    ],
+    "description": "<b><span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--lab\" title=\"Lab\"></span>Lab</span></b> loses <b>Uddingston & Bellshill</b> to <span class=\"ukle-party\"><span class=\"ukle-partyicon ukle-bg--snp\" title=\"SNP\"></span>SNP</span> by 4,809 votes"
   }
 ]

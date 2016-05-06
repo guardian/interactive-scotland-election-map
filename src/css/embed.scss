@@ -8,5 +8,9 @@ body {
     padding: 0;
 }
 
-.interactive-embed {
+
+.interactive-container {
+	@import "palette";
+	@import "grid";
+	@import "switch";	
 }

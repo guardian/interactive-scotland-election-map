@@ -1,7 +1,14 @@
 .switch {
+	
+	.stretch {
+		width: 100%;
+		padding-bottom: 100%;
+	}
 
-	&:hover {
+	&:not(.inactive):hover {
 		z-index:9999;
+
+		opacity: 1;
 
 		h4 {
 			visibility: visible;

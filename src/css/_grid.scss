@@ -2,11 +2,12 @@
 	
 	overflow:hidden;
 	width:100%;
+	min-height:520px;
 	max-width:620px;
 	position:relative;
 	
 	
-	padding:40px 40px 20px 5px;
+	padding:45px 50px 20px 5px;
 
 	.row {
 		width:100%;
@@ -14,6 +15,13 @@
 		border-collapse:separate;
 		border-spacing:2px 1px;
 	}
+
+	&:hover {
+		.switch {
+			opacity: 0.5;
+		}
+	}
+
 	.switch {
 		position:relative;
 		display: table-cell;

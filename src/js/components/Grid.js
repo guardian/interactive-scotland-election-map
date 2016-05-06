@@ -81,6 +81,11 @@ export default function Grid(data, options) {
 												bottom:0
 											}
 										}));
+					} else {
+						select(this)
+							.classed("inactive",true)
+							.append("div")
+							.attr("class","stretch")
 					}
 					let constituency=d.real_constituency || d.constituency;
 					if(constituency!=="none") {

@@ -62,6 +62,9 @@ export default function Switch(data, options) {
     let WIDTH = options.width || box.width,
         HEIGHT = options.height || box.width;
 
+    options.container
+        			.style("height",HEIGHT+"px")
+
 	let svg = options.container
         		.append("svg")
         		.attr("width",WIDTH)
@@ -167,7 +170,7 @@ export default function Switch(data, options) {
 					return d.key+" "+d3_format(",.1%")(d.value.percentage/100)+" ("+change+")";
 				})
 				.each(function(d){
-					strokeShadow(this,2);
+					strokeShadow(this,1);
 				})
 
 				
@@ -183,9 +186,15 @@ export default function Switch(data, options) {
 				.attr("d",d=>{
 					return drawPath(d);
 				})
-
+		let prev_y=-1;
 		label.style("top",d=>{
-					return yscale(d.prev)+"px"
+					let y=yscale(d.prev),
+						delta=y-(prev_y+14);
+					if(delta<0 && prev_y>-1) {
+						y+=Math.abs(delta);
+					}
+					prev_y=y;
+					return y+"px"
 				})
 
 	}
@@ -232,7 +241,9 @@ export default function Switch(data, options) {
         yscale.range([0,HEIGHT - (margins.top + margins.bottom + padding.top)]),
         hscale.range([0,HEIGHT - (margins.top + margins.bottom + padding.top)]);
 
-        options.container.style("height",HEIGHT+"px")
+        options.container
+        			//.style("width",Math.floor(WIDTH)+"px")
+        			.style("height",HEIGHT+"px")
 
         svg 
     		.attr("width",WIDTH)
