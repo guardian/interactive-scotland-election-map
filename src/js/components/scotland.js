@@ -77,6 +77,8 @@ export default function ScotlandElectionMap(options) {
         //console.log("NEW DATA IS",data)
 
         let _map=MAP;
+        console.log(_map.map(m=>m.split(";")))
+
         if(options.filter && options.filter!=="lab") {
         	_map=filters[options.filter]
         }
@@ -120,6 +122,7 @@ export default function ScotlandElectionMap(options) {
         		.attr("class","scotland-map")
         		.attr("src",config.assetPath+"/assets/imgs/"+options.filter+".png")
         }
+
 
         window.addEventListener("optimizedResize", function() {
             //console.log("resize")

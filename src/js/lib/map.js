@@ -9,10 +9,10 @@ export let MAP=[
 	';;Strathkelvin & Bearsden;Cumbernauld & Kilsyth;Falkirk West;Falkirk East;Linlithgow;;',
 	'Renfrewshire North & West;Greenock & Inverclyde;Glasgow Anniesland;Glasgow Maryhill & Springburn;Glasgow Provan;Coatbridge & Chryston;Airdrie & Shotts;;',
 	'Cunninghame North;Renfrewshire South;Clydebank & Milngavie;Glasgow Cathcart;Glasgow Kelvin;Glasgow Shettleston;;;',
-	';Paisley;Glasgow Pollok;Glasgow Southside;Rutherglen;Uddingston & Bellshill;Edinburgh Eastern;Edinburgh Northern & Leith;Edinburgh Western',
-	';Kilmarnock & Irvine Valley;Eastwood;Hamilton, Larkhall & Stonehouse;Motherwell & Wishaw;Almond Valley;Edinburgh Southern;Edinburgh Pentlands;Edinburgh Central',
-	';;Ayr;Clydesdale;Midlothian South, Tweeddale & Lauderdale;Midlothian North & Musselburgh;East Lothian;;',
-	';;Galloway & Dumfries West;Galloway & Dumfries West;Dumfriesshire;Ettrick, Roxburgh & Berwickshire;;;'
+	'Cunninghame South;Paisley;Glasgow Pollok;Glasgow Southside;Rutherglen;Uddingston & Bellshill;Edinburgh Eastern;Edinburgh Northern & Leith;Edinburgh Western',
+	';Kilmarnock & Irvine Valley;East Kilbride;Hamilton, Larkhall & Stonehouse;Motherwell & Wishaw;Almond Valley;Edinburgh Southern;Edinburgh Pentlands;Edinburgh Central',
+	';Ayr;Eastwood;Clydesdale;Midlothian South, Tweeddale & Lauderdale;Midlothian North & Musselburgh;East Lothian;;',
+	';;Carrick, Cumnock & Doon Valley;Galloway & Dumfries West;Dumfriesshire;Ettrick, Roxburgh & Berwickshire;;;'
 ];
 
 export let filters={

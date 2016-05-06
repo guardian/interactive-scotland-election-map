@@ -12,5 +12,5 @@ export let MAP=[
 	';Paisley;Glasgow Pollok;Glasgow Southside;Rutherglen;Uddingston & Bellshill;Edinburgh Western;Edinburgh Northern and Leith;Edinburgh Western',
 	';Kilmarnock & Irvine Valley;Eastwood;Hamilton, Larkhall & Stonehouse;Motherwell & Wishaw;Almond Valley;Edinburgh South;Edinburgh Pentlands;Edinburgh Central',
 	';;Ayr;Clydesdale;Midlothian South; Tweeddale & Lauderdale;Midlothian North & Musselburgh;East Lothian;;',
-	';;Galloway & Dumfries West;Galloway & Dumfries West;Dumfriesshire;Ettrick, Roxburgh & Berwickshire;;;'
+	';;;Galloway & Dumfries West;Dumfriesshire;Ettrick, Roxburgh & Berwickshire;;;'
 ];

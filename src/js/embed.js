@@ -22,7 +22,6 @@ window.init = function init(el, config) {
 
 
     el.innerHTML = embedHTML;
-
     
 
     let frameRequest = requestAnimationFrame(function checkInnerHTML(time) {
