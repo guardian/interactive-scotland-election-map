@@ -41,10 +41,11 @@ export default function Grid(data, options) {
 
 	let switches=[];
 
-	let row=select(options.container)
+	let grid=select(options.container)
 		.append("div")
-		.attr("class","grid")
-			.selectAll("div.row")
+		.attr("class","grid");
+
+	let row=grid.selectAll("div.row")
 			.data(options.map)
 			.enter()
 			.append("div")
@@ -79,13 +80,37 @@ export default function Grid(data, options) {
 												left:0,
 												right:0,
 												bottom:0
-											}
+											},
+											onTouchEndCallback:(d)=>{
+												grid
+													.classed("hover",true)
+													.selectAll(".switch")
+														.classed("hover",false);
+											}/*,
+											onMouseEnter:(d)=>{
+												grid
+													.classed("hover",true)
+													.selectAll(".switch")
+														.classed("hover",false);
+											},
+											onMouseLeave:(d)=>{
+												grid
+													.classed("hover",false)
+													//.selectAll(".switch")
+													//	.classed("hover",false);
+											}*/
 										}));
 					} else {
 						select(this)
 							.classed("inactive",true)
 							.append("div")
 							.attr("class","stretch")
+							.on("touchend",()=>{
+								grid
+									.classed("hover",false)
+									.selectAll(".switch")
+										.classed("hover",false);
+							})
 					}
 					let constituency=d.real_constituency || d.constituency;
 					if(constituency!=="none") {

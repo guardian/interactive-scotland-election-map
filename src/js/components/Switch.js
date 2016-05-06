@@ -29,7 +29,7 @@ import {strokeShadow} from '../lib/CSSUtils';
 
 export default function Switch(data, options) {
 
-	//console.log("Switch",data,options);
+	console.log("Switch",data,options);
 
 
 
@@ -63,7 +63,31 @@ export default function Switch(data, options) {
         HEIGHT = options.height || box.width;
 
     options.container
-        			.style("height",HEIGHT+"px")
+        		.style("height",HEIGHT+"px")
+        		.on("touchend",(d)=>{
+        			
+        			if(options.onTouchEndCallback) {
+        				options.onTouchEndCallback();
+        			}
+
+        			options.container.classed("hover",true);
+        		})
+        		/*.on("mouseenter",(d)=>{
+        			
+        			if(options.onMouseEnter) {
+        				options.onMouseEnter();
+        			}
+
+        			options.container.classed("hover",true);
+        		})
+        		.on("mouseleave",(d)=>{
+        			
+        			if(options.onMouseLeave) {
+        				options.onMouseLeave();
+        			}
+
+        			options.container.classed("hover",false);
+        		})*/
 
 	let svg = options.container
         		.append("svg")
@@ -164,10 +188,10 @@ export default function Switch(data, options) {
 				.style("top",d=>{
 					return yscale(d.prev)+"px"
 				})
-				.text(d=>{
+				.html(d=>{
 					//console.log("---->",d)
 					let change=d3_format("+,.1%")(d.value.change/100);
-					return d.key+" "+d3_format(",.1%")(d.value.percentage/100)+" ("+change+")";
+					return d.key+" "+d3_format(",.1%")(d.value.percentage/100)+" <i>("+change+")</i>";
 				})
 				.each(function(d){
 					strokeShadow(this,1);

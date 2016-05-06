@@ -4,6 +4,8 @@ import {randomUniform} from 'd3-random';
 
 import Grid from './Grid';
 
+import Overall from './Overall';
+
 import {MAP,filters} from '../lib/map';
 
 import {
@@ -25,10 +27,10 @@ export default function ScotlandElectionMap(options) {
 
     //d3_json(config.assetPath+"/assets/data/scotland2.json",(__data)=>{
     d3_json("https://interactive.guim.co.uk/2016/04/localelections2016/booted/data/scottish/full.json",(__data)=>{
-        console.log("SCOTLAND",__data)
+        //console.log("SCOTLAND",__data)
         let data=[];
 
-        console.log(__data.map(d=>d.name))
+        //console.log(__data.map(d=>d.name))
 
         __data.forEach((d,i)=>{
             
@@ -94,7 +96,60 @@ export default function ScotlandElectionMap(options) {
         	console.log(data)
         }
         //return;
-
+        if(!options.filter) {
+        	let overall=new Overall(
+	        	[
+	        		{
+			        	constituency:"scotland",
+			        	years:[
+			        		{
+			        			"Con":{
+			        				percentage:22.02-8.11
+			        			},
+			        			"SNP":{
+			        				percentage:46.51-1.12
+			        			},
+			        			"Lab":{
+			        				percentage:22.56-(-9.13)
+			        			},
+			        			"LD":{
+			        				percentage:7.82-(-0.11)
+			        			},
+			        			"Green":{
+			        				percentage:0
+			        			}
+			        		},
+			        		{
+			        			"Con":{
+			        				percentage:22.02,
+			        				change:8.11
+			        			},
+			        			"SNP":{
+			        				percentage:46.51,
+			        				change:1.12
+			        			},
+			        			"Lab":{
+			        				percentage:22.56,
+			        				change:-9.13
+			        			},
+			        			"LD":{
+			        				percentage:7.82,
+			        				change:-0.11
+			        			},
+			        			"Green":{
+			        				percentage:0.58,
+			        				change:0.58
+			        			}
+			        		}
+			        	]
+		        	}
+	        	]
+		        ,{
+		        	container:el.querySelector(".interactive-container")
+		        });
+        }
+        
+        //return;
         let grid=new Grid(data,{
             container:el.querySelector(".interactive-container"),
             map:_map.map(m=>m.split(";"))

@@ -1,13 +1,20 @@
 .grid {
 	
 	overflow:hidden;
-	width:100%;
-	min-height:520px;
-	max-width:620px;
+	min-height:1px;
+	max-width:520px;
 	position:relative;
 	
 	
-	padding:45px 50px 20px 5px;
+	overflow:visible;
+
+	width:calc(320px - 60px);
+	padding:45px 0 25px;
+	
+	@include mq(frame) {
+		width:calc(100% - 100px);
+		padding:45px 0 25px;
+	}
 
 	.row {
 		width:100%;
@@ -16,10 +23,17 @@
 		border-spacing:2px 1px;
 	}
 
-	&:hover {
+	&.hover {
 		.switch {
 			opacity: 0.5;
 		}
+	}
+	@include mq(frame) {
+		&:hover {
+			.switch {
+				opacity: 0.5;
+			}
+		}	
 	}
 
 	.switch {
@@ -46,7 +60,7 @@
 			margin:0;
 			padding:0;
 			position: absolute;
-			width:150%;
+			width:110px;
 			height:100px;
 			margin-top:-100px;
 			display: table;
